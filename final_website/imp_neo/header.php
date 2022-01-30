@@ -60,14 +60,13 @@
     <link type="text/css" href="./css/neumorphism.css" rel="stylesheet">
 
     <!-- NOTICE: You can use the _analytics.html partial to include production code specific code & trackers -->
-
 </head>
 
 <body>
 <header class="header-global">
     <nav id="navbar-main" aria-label="Primary navigation"
-         class="navbar navbar-main navbar-expand-lg navbar-theme-primary headroom navbar-light navbar-transparent navbar-theme-primary">
-        <div class="container position-relative">
+         class="navbar navbar-main navbar-expand-lg navbar-theme-primary headroom navbar-light navbar-transparent">
+        <div class="container position-relative" style="margin-left: 50px; margin-right: 50px">
             <a class="navbar-brand shadow-soft py-2 px-3 rounded border border-light mr-lg-4" href="index.php">
                 <img class="navbar-brand-dark" src="./assets/img/brand/dark.svg" alt="Logo light">
                 <img class="navbar-brand-light" src="./assets/img/brand/dark.svg" alt="Logo dark">
@@ -88,13 +87,13 @@
                         </div>
                     </div>
                 </div>
-                <ul class="navbar-nav navbar-nav-hover align-items-lg-center">
+                <ul class="navbar-nav navbar-nav-hover float-right" style="margin-left: 280px; margin-right: 10px;">
                     <li class="nav-item">
-                        <a class="nav-link mb-sm-3 mb-md-0 active" data-toggle="tab" href="./index.php">Home</a>
+                        <a class="nav-link mb-sm-3 mb-md-0 active" href="index.php">Home</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a href="#" class="nav-link" data-toggle="dropdown">
-                            <span class="nav-link-inner-text">About Us</span>
+                            <span class="nav-link-inner-text">About</span>
                             <span class="fas fa-angle-down nav-link-arrow ml-2"></span>
                         </a>
                         <ul class="dropdown-menu">
@@ -170,12 +169,8 @@
                 <a href="" target="_blank"
                    class="btn btn-primary text-secondary d-none d-md-inline-block mr-3"><i
                             class="far fa-paper-plane mr-2"></i> Make an Appointment</a>
-                <a href="" target="_blank"
-                   class="btn btn-primary"><i class="fas fa-book"></i> Contact Us</a>
-                <button class="navbar-toggler ml-2" type="button" data-toggle="collapse" data-target="#navbar_global"
-                        aria-controls="navbar_global" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
+<!--                <a href="" target="_blank"-->
+<!--                   class="btn btn-primary"><i class="fas fa-book"></i> Contact Us</a>-->
             </div>
         </div>
     </nav>
