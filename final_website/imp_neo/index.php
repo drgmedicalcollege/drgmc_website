@@ -4,15 +4,62 @@
 <body>
 <main>
     <!-- Hero -->
-    <section class="section section bg-soft pb-5 overflow-hidden z-2">
-        <div class="container z-2">
-            <div class="row justify-content-center text-center pt-6">
-                <div class="col-lg-8 col-xl-8">
-                    <h1 class="display-2 mb-3">Dr. Rajendra Gode Multispeciality Hospital</h1>
-                    <p class="lead px-md-6 mb-3">More than just <strong>treating</strong> patients</p>
+<!--        <section class="section section bg-gradient-soft pb-5 overflow-hidden z-2">-->
+<!--            <div class="container z-2">-->
+<!--                <div class="row justify-content-center text-center pt-6">-->
+<!--                    <div class="col-lg-8 col-xl-8">-->
+<!--                        <h1 class="display-3 mb-3">Multispeciality and General Hospital</h1>-->
+<!--                        <p class="lead px-md-6 mb-3">More than just <strong>treating</strong> patients</p>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </section>-->
+    <section class="section section bg-soft pt-7 section-lg">
+<!--        <div class="container">-->
+<!--            remove this container to adjust the width-->
+            <!--           <div class="row">-->
+            <!--            <div class="col text-center">-->
+            <!--                <h2 class="h2 text-center mt-6 mb-3">Gallary</h2>-->
+            <!--            </div>-->
+            <!--        </div>-->
+            <!-- End of title-->
+            <div class="row justify-content-center">
+                <div class="col-md-11">
+                    <!-- Carousel -->
+                    <div id="Carousel3" class="carousel slide shadow-soft border border-light p-4 rounded"
+                         data-ride="carousel">
+                        <ol class="carousel-indicators">
+                            <li data-target="#Carousel3" data-slide-to="0" class="active"></li>
+                            <li data-target="#Carousel3" data-slide-to="1"></li>
+                            <li data-target="#Carousel3" data-slide-to="2"></li>
+                        </ol>
+                        <div class="carousel-inner rounded">
+                            <div class="carousel-item active">
+                                <img class="d-block w-100" src="./assets/img/carousel/image-1.jpg" alt="First slide"
+                                     style="height: 600px">
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block w-100" src="./assets/img/carousel/image-2.jpg" alt="Second slide"
+                                     style="height: 600px">
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block w-100" src="./assets/img/carousel/image-3.jpg" alt="Third slide"
+                                     style="height: 600px">
+                            </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#Carousel3" role="button" data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#Carousel3" role="button" data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div>
+                    <!-- End of Carousel -->
                 </div>
             </div>
-        </div>
+<!--        </div>-->
     </section>
     <section class="section bg-light section-lg pt-0">
         <div class="row">
@@ -75,47 +122,6 @@
 
     </section>
     <!-- Title -->
-    <section class="section bg-light section-sm pt-0">
-        <div class="row">
-            <div class="col text-center">
-                <h2 class="h2 text-center mt-6 mb-3">Gallary</h2>
-            </div>
-        </div>
-        <!-- End of title-->
-        <div class="row justify-content-center">
-            <div class="col-md-10">
-                <!-- Carousel -->
-                <div id="Carousel3" class="carousel slide shadow-soft border border-light p-4 rounded"
-                     data-ride="carousel">
-                    <ol class="carousel-indicators">
-                        <li data-target="#Carousel3" data-slide-to="0" class="active"></li>
-                        <li data-target="#Carousel3" data-slide-to="1"></li>
-                        <li data-target="#Carousel3" data-slide-to="2"></li>
-                    </ol>
-                    <div class="carousel-inner rounded">
-                        <div class="carousel-item active">
-                            <img class="d-block w-100" src="./assets/img/carousel/image-1.jpg" alt="First slide">
-                        </div>
-                        <div class="carousel-item">
-                            <img class="d-block w-100" src="./assets/img/carousel/image-2.jpg" alt="Second slide">
-                        </div>
-                        <div class="carousel-item">
-                            <img class="d-block w-100" src="./assets/img/carousel/image-3.jpg" alt="Third slide">
-                        </div>
-                    </div>
-                    <a class="carousel-control-prev" href="#Carousel3" role="button" data-slide="prev">
-                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span class="sr-only">Previous</span>
-                    </a>
-                    <a class="carousel-control-next" href="#Carousel3" role="button" data-slide="next">
-                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="sr-only">Next</span>
-                    </a>
-                </div>
-                <!-- End of Carousel -->
-            </div>
-        </div>
-    </section>
     <section class="section bg-soft section-sm pt-0">
         <div class="col-12">
             <h1 class="mb-5"></h1>
@@ -152,9 +158,11 @@
     <section class="section bg-light section-sm pt-0">
         <div class="row">
             <div class="col text-center">
-                <h2 class="h2 text-center mt-6 mb-3">Our Specialities</h2>
-                <p>Dr. Rajendra Gode Multispeciality Hospital in Amravati is accommodated with various speciality
-                    departments and consultant physicians to offer comprehensive medical care, best treatment and other
+                <h2 class="h2 text-center mt-6 mb-3">Specialities</h2>
+                <p>Dr. Rajendra Gode Multispeciality and General Hospital in Amravati is accommodated with various
+                    speciality
+                    departments and consultant physicians to offer comprehensive medical care, the best treatment and
+                    other
                     healthcare facilities under one roof.</p>
             </div>
         </div>

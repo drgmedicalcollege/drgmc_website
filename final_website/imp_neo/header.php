@@ -65,18 +65,18 @@
 <body>
 <header class="header-global">
     <nav id="navbar-main" aria-label="Primary navigation"
-         class="navbar navbar-main navbar-expand-lg navbar-theme-primary headroom navbar-light navbar-transparent">
-        <div class="container position-relative" style="margin-left: 50px; margin-right: 50px">
-            <a class="navbar-brand shadow-soft py-2 px-3 rounded border border-light mr-lg-4" href="index.php">
-                <img class="navbar-brand-dark" src="./assets/img/brand/dark.svg" alt="Logo light">
-                <img class="navbar-brand-light" src="./assets/img/brand/dark.svg" alt="Logo dark">
+         class="navbar navbar-main navbar-expand-lg navbar-theme-primary headroom navbar-light navbar-transparent navbar-theme-primary">
+        <div class="container position-relative">
+            <a class="navbar-brand shadow-soft py-0 px-0 rounded border border-light mr-lg-4" href="index.php">
+                <img class="navbar-brand-dark" src="./assets/img/brand/rgh.svg" alt="Logo light">
+                <img class="navbar-brand-light" src="./assets/img/brand/rgh.svg" alt="Logo dark">
             </a>
             <div class="navbar-collapse collapse" id="navbar_global">
                 <div class="navbar-collapse-header">
                     <div class="row">
                         <div class="col-6 collapse-brand">
                             <a href="index.php"
-                               class="navbar-brand shadow-soft py-2 px-3 rounded border border-light">
+                               class="navbar-brand shadow-soft py-3 px-3 rounded border border-light">
                                 <img src="./assets/img/brand/dark.svg" alt="Themesberg logo">
                             </a>
                         </div>
@@ -87,7 +87,7 @@
                         </div>
                     </div>
                 </div>
-                <ul class="navbar-nav navbar-nav-hover float-right" style="margin-left: 280px; margin-right: 10px;">
+                <ul class="navbar-nav navbar-nav-hover float-right" style="margin-left: 200px; margin-right: 0px; margin-top: 0px">
                     <li class="nav-item">
                         <a class="nav-link mb-sm-3 mb-md-0 active" href="index.php">Home</a>
                     </li>
@@ -98,13 +98,16 @@
                         </a>
                         <ul class="dropdown-menu">
                             <li><a class="dropdown-item" href="about.php">About Hospital</a></li>
-                            <li><a class="dropdown-item" href="#">Management & Administrators</a></li>
-                            <li><a class="dropdown-item" href="#">Our Accreditation</a></li>
+                            <li><a class="dropdown-item" href="#">Chairman</a></li>
+                            <li><a class="dropdown-item" href="#">Overview</a></li>
+                            <li><a class="dropdown-item" href="#">Vision & Mission</a></li>
+                            <li><a class="dropdown-item" href="#">Accreditation</a></li>
+                            <li><a class="dropdown-item" href="#">Quality Commitment</a></li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown mega-dropdown">
                         <a href="#" class="nav-link" data-toggle="dropdown">
-                            <span class="nav-link-inner-text">Our Specialities</span>
+                            <span class="nav-link-inner-text">Specialities</span>
                             <span class="fas fa-angle-down nav-link-arrow ml-2"></span>
                         </a>
                         <div class="dropdown-menu">
@@ -158,20 +161,20 @@
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link mb-sm-3 mb-md-0 active" data-toggle="tab" href="#">Services</a>
+                        <a class="nav-link mb-sm-3 mb-md-0 active" data-toggle="tab" href="#">Facilities</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link mb-sm-3 mb-md-0 active" data-toggle="tab" href="#">Our Consultants</a>
                     </li>
                 </ul>
             </div>
-            <div class="d-flex align-items-center">
-                <a href="" target="_blank"
-                   class="btn btn-primary text-secondary d-none d-md-inline-block mr-3"><i
-                            class="far fa-paper-plane mr-2"></i> Make an Appointment</a>
+<!--            <div class="d-flex align-items-center">-->
 <!--                <a href="" target="_blank"-->
-<!--                   class="btn btn-primary"><i class="fas fa-book"></i> Contact Us</a>-->
-            </div>
+<!--                   class="btn btn-primary text-secondary d-none d-md-inline-block mr-3"><i-->
+<!--                            class="far fa-paper-plane mr-2"></i> Make an Appointment</a>-->
+<!--                                <a href="" target="_blank"-->
+<!--                                   class="btn btn-primary"><i class="fas fa-book"></i> Contact Us</a>-->
+<!--            </div>-->
         </div>
     </nav>
 </header>

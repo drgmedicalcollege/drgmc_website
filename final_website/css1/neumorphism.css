@@ -653,14 +653,6 @@ pre code {
     margin-left: auto;
 }
 
-.container_head {
-    width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
-}
-
 @media (min-width: 576px) {
     .container {
         max-width: 540px;
@@ -680,14 +672,8 @@ pre code {
 }
 
 @media (min-width: 1200px) {
-    .container_head {
-        max-width: 2000px;
-    }
-}
-
-@media (min-width: 1200px) {
     .container {
-        max-width: 1140px;
+        max-width: 2000px;
     }
 }
 
@@ -9098,7 +9084,6 @@ a.close.disabled {
 
 .carousel {
     position: relative;
-    height: 650px;
 }
 
 .carousel.pointer-event {
@@ -22638,7 +22623,14 @@ button.section-slack:focus {
  * = Navigation bars
  */
 .navbar-main {
-    position: absolute;
+    position: relative;
+    top: auto;
+    width: 100%;
+    z-index: 100;
+}
+
+.navbar-top {
+    position: relative;
     top: 0;
     width: 100%;
     z-index: 100;
@@ -22677,7 +22669,7 @@ button.section-slack:focus {
     width: calc(100% - 35px);
     left: 20px;
     padding: 20px;
-    border-radius: 0.55rem;
+    border-radius: 0rem;
     overflow: hidden;
 }
 
