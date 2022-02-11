@@ -1,4 +1,5 @@
 /*=== MEDIA QUERY ===*/
+/*=== MEDIA QUERY ===*/
 /*
 Theme Name: Medic
 Author: Themefisher
@@ -231,7 +232,7 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
 }
 
 .section-sm {
-  padding: 70px 0;
+  padding: 20px 0;
 }
 
 .section-bottom {
@@ -254,7 +255,7 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
   width: 100%;
   height: 100%;
   opacity: 0.9;
-  background: #511d27eb;
+  background: #223a66;
 }
 
 .overly-2 {
@@ -316,7 +317,7 @@ a:focus {
 }
 
 .page-title .block h1 {
-  color: #fff;
+  color: #ffffff;
 }
 
 .page-title .block p {
@@ -458,7 +459,7 @@ a:focus {
 }
 
 .bg-1 {
-  background: url("../images/about hospital/about-bck.jpg") no-repeat 50% 50%;
+  background: url("../images/about hospital/page_head_2.jpg") no-repeat 20% 20%;
   background-size: cover;
   position: relative;
 }

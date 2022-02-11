@@ -53,7 +53,7 @@
                     <h6 class="text-capitalize my-0 text-light"><i class="fa fa-bookmark" aria-hidden="true"></i> DRG
                         INSTITUTIONS</h6>
                     <ul class="list-unstyled footer-menu ">
-                        <li class="my-2 "><a href="#" style="color: #6F8BA4;">Dr. Rajendra Gode Ayurved College and
+                        <li class="my-2 "><a href="https://gachospital.org" style="color: #6F8BA4;">Dr. Rajendra Gode Ayurved College and
                                 Hospital, Amravati</a></li>
                         <li class="my-2 "><a href="http://www.rgiop.com/" style="color: #6F8BA4;">Dr. Rajendra Gode
                                 Institute of Pharmacy, Amravati</a></li>

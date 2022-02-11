@@ -18,13 +18,13 @@
             <div class="col-lg-12">
                 <div class="feature-block d-lg-flex">
                     <div class="feature-item mb-5 mb-lg-0">
-                        <div class="feature-icon mb-4">
+                        <div class="feature-icon">
                             <i class="icofont-surgeon-alt"></i>
                         </div>
                         <span>24 Hours Service</span>
-                        <h4 class="mb-3">Online Appoinment</h4>
-                        <p class="mb-4">Get all time IN-PERSON and VIRTUL support</p>
-                        <a href="appoinment.php" class="btn btn-main btn-round-full">Make a appoinment <i
+                        <h4 class="mb-3">Online Appointment</h4>
+                        <p class="mb-4">Get all time IN-PERSON and VIRTUAL support</p>
+                        <a href="appoinment.php" class="btn btn-main btn-round-full">Make a appointment <i
                                     class="fa fa-paper-plane" aria-hidden="true"></i></a>
                     </div>
                     <div class="feature-item mb-5 mb-lg-0">
@@ -145,187 +145,136 @@
     </div>
     <br>
     <br>
-    <!-- Slider Start -->
-    <section class="banner">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-12 col-xl-7">
-                    <div class="block">
-                        <div class="divider mb-3 text-center ml-3"></div>
-                        <span class="text-uppercase text-sm letter-spacing ml-4">Dr. Rajendra Gode Multispeciality & General Hospital</span>
-                        <h1 class="mb-3 mt-3 text-center">Exceptional Care Close to You</h1>
-                    </div>
+</section>
+<!-- Slider Start -->
+<section class="banner">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-12 col-xl-7">
+                <div class="block">
+                    <div class="divider mb-3 text-center ml-3"></div>
+                    <span class="text-uppercase text-sm letter-spacing ml-4">Dr. Rajendra Gode Multispeciality & General Hospital</span>
+                    <h1 class="mb-3 mt-3 text-center">Exceptional Care Close to You</h1>
                 </div>
             </div>
         </div>
-    </section>
-    <!-- <section class="section cta-page-for-home mt-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-7">
-                    <div class="cta-content">
-                        <div class="divider mb-4"></div>
-                        <h2 class="mb-5 text-lg">God can not come for us all the time <span class="title-color">that’s why he sent doctors for us.</span></h2>
-                    </div>
+    </div>
+</section>
+<!-- <section class="section cta-page-for-home mt-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-7">
+                <div class="cta-content">
+                    <div class="divider mb-4"></div>
+                    <h2 class="mb-5 text-lg">God can not come for us all the time <span class="title-color">that’s why he sent doctors for us.</span></h2>
                 </div>
             </div>
         </div>
-    </section> -->
-    <section class="section testimonial-2  ">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-7">
-                    <div class="section-title text-center">
-                        <h2>Patient Testimonials</h2>
-                        <div class="divider mx-auto my-4"></div>
-                        <p>In their own words, our patients tell us their experience</p>
-                    </div>
+    </div>
+</section> -->
+<section class="section testimonial-2  ">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-7">
+                <div class="section-title text-center">
+                    <h2>Patient Testimonials</h2>
+                    <div class="divider mx-auto my-4"></div>
+                    <p>In their own words, our patients tell us their experience</p>
                 </div>
             </div>
         </div>
-        <div class="container my-0">
-            <div class="row align-items-center">
-                <div class="col-lg-12 testimonial-wrap-2">
-                    <div class="testimonial-block style-2 ">
-                        <i class="icofont-quote-right"></i>
-                        <div class="testimonial-thumb">
-                            <img src="images/team/test-thumb1.jpg" alt="" class="img-fluid">
-                        </div>
-                        <div class="client-info ">
-                            <h4>Amazing service!</h4>
-                            <span>John Partho</span>
-                            <p>
-                                They provide great service facilty consectetur adipisicing elit. Itaque rem,
-                                praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
-                            </p>
-                        </div>
+    </div>
+    <div class="container my-0">
+        <div class="row align-items-center">
+            <div class="col-lg-12 testimonial-wrap-2">
+                <div class="testimonial-block style-2 ">
+                    <i class="icofont-quote-right"></i>
+                    <div class="testimonial-thumb">
+                        <img src="images/team/test-thumb1.jpg" alt="" class="img-fluid">
                     </div>
-                    <div class="testimonial-block style-2  gray-bg">
-                        <div class="testimonial-thumb">
-                            <img src="images/team/test-thumb2.jpg" alt="" class="img-fluid">
-                        </div>
-                        <div class="client-info">
-                            <h4>Expert doctors!</h4>
-                            <span>Mullar Sarth</span>
-                            <p>
-                                They provide great service facilty consectetur adipisicing elit. Itaque rem,
-                                praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
-                            </p>
-                        </div>
-                        <i class="icofont-quote-right"></i>
+                    <div class="client-info ">
+                        <h4>Amazing service!</h4>
+                        <span>John Partho</span>
+                        <p>
+                            They provide great service facilty consectetur adipisicing elit. Itaque rem,
+                            praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
+                        </p>
                     </div>
-                    <div class="testimonial-block style-2  gray-bg">
-                        <div class="testimonial-thumb">
-                            <img src="images/team/test-thumb3.jpg" alt="" class="img-fluid">
-                        </div>
-                        <div class="client-info">
-                            <h4>Good Support!</h4>
-                            <span>Kolis Mullar</span>
-                            <p>
-                                They provide great service facilty consectetur adipisicing elit. Itaque rem,
-                                praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
-                            </p>
-                        </div>
-                        <i class="icofont-quote-right"></i>
+                </div>
+                <div class="testimonial-block style-2  gray-bg">
+                    <div class="testimonial-thumb">
+                        <img src="images/team/test-thumb2.jpg" alt="" class="img-fluid">
                     </div>
-                    <div class="testimonial-block style-2  gray-bg">
-                        <div class="testimonial-thumb">
-                            <img src="images/team/test-thumb4.jpg" alt="" class="img-fluid">
-                        </div>
-                        <div class="client-info">
-                            <h4>Nice Environment!</h4>
-                            <span>Partho Sarothi</span>
-                            <p class="mt-4">
-                                They provide great service facilty consectetur adipisicing elit. Itaque rem,
-                                praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
-                            </p>
-                        </div>
-                        <i class="icofont-quote-right"></i>
+                    <div class="client-info">
+                        <h4>Expert doctors!</h4>
+                        <span>Mullar Sarth</span>
+                        <p>
+                            They provide great service facilty consectetur adipisicing elit. Itaque rem,
+                            praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
+                        </p>
                     </div>
-                    <div class="testimonial-block style-2  gray-bg">
-                        <div class="testimonial-thumb">
-                            <img src="images/team/test-thumb1.jpg" alt="" class="img-fluid">
-                        </div>
-                        <div class="client-info">
-                            <h4>Modern Service!</h4>
-                            <span>Kolis Mullar</span>
-                            <p>
-                                They provide great service facilty consectetur adipisicing elit. Itaque rem,
-                                praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
-                            </p>
-                        </div>
-                        <i class="icofont-quote-right"></i>
+                    <i class="icofont-quote-right"></i>
+                </div>
+                <div class="testimonial-block style-2  gray-bg">
+                    <div class="testimonial-thumb">
+                        <img src="images/team/test-thumb3.jpg" alt="" class="img-fluid">
                     </div>
+                    <div class="client-info">
+                        <h4>Good Support!</h4>
+                        <span>Kolis Mullar</span>
+                        <p>
+                            They provide great service facilty consectetur adipisicing elit. Itaque rem,
+                            praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
+                        </p>
+                    </div>
+                    <i class="icofont-quote-right"></i>
+                </div>
+                <div class="testimonial-block style-2  gray-bg">
+                    <div class="testimonial-thumb">
+                        <img src="images/team/test-thumb4.jpg" alt="" class="img-fluid">
+                    </div>
+                    <div class="client-info">
+                        <h4>Nice Environment!</h4>
+                        <span>Partho Sarothi</span>
+                        <p class="mt-4">
+                            They provide great service facilty consectetur adipisicing elit. Itaque rem,
+                            praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
+                        </p>
+                    </div>
+                    <i class="icofont-quote-right"></i>
+                </div>
+                <div class="testimonial-block style-2  gray-bg">
+                    <div class="testimonial-thumb">
+                        <img src="images/team/test-thumb1.jpg" alt="" class="img-fluid">
+                    </div>
+                    <div class="client-info">
+                        <h4>Modern Service!</h4>
+                        <span>Kolis Mullar</span>
+                        <p>
+                            They provide great service facilty consectetur adipisicing elit. Itaque rem,
+                            praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
+                        </p>
+                    </div>
+                    <i class="icofont-quote-right"></i>
                 </div>
             </div>
         </div>
-    </section>
-    <section class="section clients gray-bg">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-7">
-                    <div class="section-title text-center">
-                        <h2>Accreditations</h2>
-                        <div class="divider mx-auto my-4"></div>
-                    </div>
+    </div>
+</section>
+<section class="section clients gray-bg">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-7">
+                <div class="section-title text-center">
+                    <h2>Accreditations</h2>
+                    <div class="divider mx-auto my-4"></div>
+                    <br><br>
+                    <img src="images/about/acc.png" alt="">
                 </div>
             </div>
         </div>
-        <div class="container">
-            <div class="row clients-logo">
-                <div class="col-lg-2">
-                    <div class="client-thumb">
-                        <img src="images/about/1.png" alt="" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-lg-2">
-                    <div class="client-thumb">
-                        <img src="images/about/2.png" alt="" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-lg-2">
-                    <div class="client-thumb">
-                        <img src="images/about/3.png" alt="" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-lg-2">
-                    <div class="client-thumb">
-                        <img src="images/about/4.png" alt="" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-lg-2">
-                    <div class="client-thumb">
-                        <img src="images/about/5.png" alt="" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-lg-2">
-                    <div class="client-thumb">
-                        <img src="images/about/6.png" alt="" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-lg-2">
-                    <div class="client-thumb">
-                        <img src="images/about/3.png" alt="" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-lg-2">
-                    <div class="client-thumb">
-                        <img src="images/about/4.png" alt="" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-lg-2">
-                    <div class="client-thumb">
-                        <img src="images/about/5.png" alt="" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-lg-2">
-                    <div class="client-thumb">
-                        <img src="images/about/6.png" alt="" class="img-fluid">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <?php include 'footer.php'; ?>
+    </div>
+</section>
+<?php include 'footer.php'; ?>
 </body>
 </html>

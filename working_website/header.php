@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="description" content="Orbitor,business,company,agency,modern,bootstrap4,tech,software">
     <meta name="author" content="themefisher.com">
-    <title>Novena- Health & Care Medical template</title>
+    <title>DRGMC</title>
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico"/>
     <!-- bootstrap.min css -->
@@ -25,7 +25,7 @@
             display: block;
             position: absolute;
             background-color: #f9f9f9;
-            width: 870px;
+            width: 670px;
             left: 0;
             z-index: 1;
         }
@@ -37,7 +37,9 @@
         /* Create three equal columns that floats next to each other */
         .column {
             float: left;
-            width: auto;
+            width: 220px;
+            padding: 0px;
+            margin: 0px;
             height: auto;
         }
 
@@ -104,7 +106,7 @@
                         <ul class="dropdown-menu" aria-labelledby="dropdown03">
                             <li><a class="dropdown-item" href="about-hospital.php">About Hospital</a></li>
                             <li><a class="dropdown-item" href="our-chairman.php">Our Chairman</a></li>
-                            <li><a class="dropdown-item" href="vision.php">Vision & Mission</a></li>
+                            <li><a class="dropdown-item" href="vision.php">Inspiration & Philosophy</a></li>
                             <li><a class="dropdown-item" href="accreditation.php">Accreditation</a></li>
                             <li><a class="dropdown-item" href="quality-commitment.php">Quality Commitment</a></li>
                             <li><a class="dropdown-item" href="virtual-tour.php">Virtual Tour</a></li>
@@ -112,42 +114,31 @@
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="all-specialities.php" id="dropdown03"
-                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Speciality <i
+                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Specialities <i
                                     class="icofont-thin-down"></i></a>
                         <div class="dropdown-content">
                             <div class="row">
                                 <ul class="dropdown-menu">
                                     <div class="column">
-                                        <li><a class="dropdown-item" href="anaesthesiology.php">Anaesthesiology</a>
+                                        <li><a class="dropdown-item" href="s1_anaesthesiology.php">Anaesthesiology</a>
                                         </li>
-                                        <li><a class="dropdown-item" href="#">Neuroscience</a></li>
-                                        <li><a class="dropdown-item" href="#">Orthopedics</a></li>
-                                        <li><a class="dropdown-item" href="#">Renal Sciences</a></li>
-                                        <li><a class="dropdown-item" href="#">Diabetics & Clinical Nutrition</a></li>
-                                        <li><a class="dropdown-item" href="#">Dermatology</a></li>
-                                        <li><a class="dropdown-item" href="#">Endocrinology</a></li>
-                                        <li><a class="dropdown-item" href="#">General Surgery</a></li>
+                                        <li><a class="dropdown-item" href="s2_obstetrics.php">Obstetrics &
+                                                Gynecology</a></li>
+                                        <li><a class="dropdown-item" href="s3_Cardiology.php">Cardiology</a></li>
+                                        <li><a class="dropdown-item" href="s4_GeneralMedicine.php">General Medicine</a>
+                                        </li>
                                     </div>
                                     <div class="column">
-                                        <li><a class="dropdown-item" href="#">Cardiology & Cardio Thoracic</a></li>
-                                        <li><a class="dropdown-item" href="#">Internal Medicine</a></li>
-                                        <li><a class="dropdown-item" href="#">Obstetrics & Gynecology</a></li>
-                                        <li><a class="dropdown-item" href="#">Ophthalmology</a></li>
-                                        <li><a class="dropdown-item" href="#">Pediatrics & Neonatology</a></li>
-                                        <li><a class="dropdown-item" href="#">Digestive & Liver Diseases</a></li>
-                                        <li><a class="dropdown-item" href="#">ENT</a></li>
-                                        <li><a class="dropdown-item" href="#">Oral & Maxillofacial Surgery</a></li>
+                                        <li><a class="dropdown-item" href="s5_GeneralSurgery.php">General Surgery</a></li>
+                                        <li><a class="dropdown-item" href="s6_Pediatrics.php">Pediatrics</a></li>
+                                        <li><a class="dropdown-item" href="s7_Orthopedics.php">Orthopedics</a></li>
+                                        <li><a class="dropdown-item" href="s8_Ophthalmology.php">Ophthalmology</a></li>
                                     </div>
                                     <div class="column">
-                                        <li><a class="dropdown-item" href="#">Head & Neck Oncology</a></li>
-                                        <li><a class="dropdown-item" href="#">Pediatrics & Neonatology</a></li>
-                                        <li><a class="dropdown-item" href="#">Physiotherapy & Rehabilitation </a></li>
-                                        <li><a class="dropdown-item" href="#">Plastic, Reconstruction & Aesthetic
-                                                Surgery</a></li>
-                                        <li><a class="dropdown-item" href="#">Pulmonary Medicine</a></li>
-                                        <li><a class="dropdown-item" href="#">Radio-Diagnosis & Imaging</a></li>
-                                        <li><a class="dropdown-item" href="#">Transfusion Medicine & Blood Bank</a></li>
-                                        <li><a class="dropdown-item" href="#">Neurosurgery</a></li>
+                                        <li><a class="dropdown-item" href="s9_Ear,%20Nose,%20Throat%20(ENT).php">Ear, Nose, Throat (ENT)</a></li>
+                                        <li><a class="dropdown-item" href="s10_Dermatology.php">Dermatology</a></li>
+                                        <li><a class="dropdown-item" href="s11_Pulmonary%20Medicine.php">Pulmonary Medicine</a></li>
+                                        <li><a class="dropdown-item" href="s12_Psychiatry.php">Psychiatry</a></li>
                                     </div>
                                 </ul>
                             </div>
