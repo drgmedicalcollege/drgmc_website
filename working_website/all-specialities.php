@@ -31,12 +31,13 @@
                 <div class="service-item mb-4">
                     <div class="icon d-flex align-items-center">
                         <i class="icofont-laboratory text-lg"></i>
-                        <h4 class="mt-3 mb-3 ml-2 ml-2">Anaesthesiology</h4>
+                        <h4 class="mt-3 mb-3 ml-2 ml-2">Anesthesiology</h4>
                     </div>
                     <div class="content">
-                        <p class="mb-4">The laboratory services are established with the purpose of providing critical
-                            laboratory investigations for ample and inclusive patient care.</p>
-                        <a href="department-single.html" class="read-more">Learn More  <i class="icofont-simple-right ml-2"></i></a>
+                        <p class="mb-4">Our Department of Anesthesia provides various anesthesia services in areas such
+                            as post-surgery ...</p>
+                        <a href="s1_anaesthesiology.php" class="read-more">Learn More <i
+                                    class="icofont-simple-right ml-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -44,11 +45,13 @@
                 <div class="service-item mb-4">
                     <div class="icon d-flex align-items-center">
                         <i class="icofont-heart-beat-alt text-lg"></i>
-                        <h4 class="mt-3 mb-3 ml-2">Neuroscience</h4>
+                        <h4 class="mt-3 mb-3 ml-2">Obstetrics&Gynecology</h4>
                     </div>
                     <div class="content">
-                        <p class="mb-4">Dr. Rajendra Gode Multispeciality & General Hospital performi a multitude of
-                            treatments and procedures in cardiology and cardiothoracic surgery.</p>
+                        <p class="mb-4">Our Obstetrics & gynecology department aims to provide high quality health care
+                            for women. ...</p>
+                        <a href="s2_obstetrics.php" class="read-more">Learn More <i
+                                    class="icofont-simple-right ml-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -56,11 +59,13 @@
                 <div class="service-item mb-4">
                     <div class="icon d-flex align-items-center">
                         <i class="icofont-heart-beat-alt text-lg"></i>
-                        <h4 class="mt-3 mb-3 ml-2">Orthopedics</h4>
+                        <h4 class="mt-3 mb-3 ml-2">Cardiology</h4>
                     </div>
                     <div class="content">
-                        <p class="mb-4">Dr. Rajendra Gode Multispeciality & General Hospital performi a multitude of
-                            treatments and procedures in cardiology and cardiothoracic surgery.</p>
+                        <p class="mb-4">Our Department of Cardiology understands the stress caused to patients and their
+                            families due to ...</p>
+                        <a href="s3_Cardiology.php" class="read-more">Learn More <i
+                                    class="icofont-simple-right ml-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -68,47 +73,13 @@
                 <div class="service-item mb-4">
                     <div class="icon d-flex align-items-center">
                         <i class="icofont-heart-beat-alt text-lg"></i>
-                        <h4 class="mt-3 mb-3 ml-2">Renal Sciences</h4>
+                        <h4 class="mt-3 mb-3 ml-2">General Medicine</h4>
                     </div>
                     <div class="content">
-                        <p class="mb-4">Dr. Rajendra Gode Multispeciality & General Hospital performi a multitude of
-                            treatments and procedures in cardiology and cardiothoracic surgery.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="service-item mb-4">
-                    <div class="icon d-flex align-items-center">
-                        <i class="icofont-heart-beat-alt text-lg"></i>
-                        <h4 class="mt-3 mb-3 ml-2">Diabetics & Clinical Nutrition</h4>
-                    </div>
-                    <div class="content">
-                        <p class="mb-4">Dr. Rajendra Gode Multispeciality & General Hospital performi a multitude of
-                            treatments and procedures in cardiology and cardiothoracic surgery.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="service-item mb-4">
-                    <div class="icon d-flex align-items-center">
-                        <i class="icofont-heart-beat-alt text-lg"></i>
-                        <h4 class="mt-3 mb-3 ml-2">Dermatology</h4>
-                    </div>
-                    <div class="content">
-                        <p class="mb-4">Dr. Rajendra Gode Multispeciality & General Hospital performi a multitude of
-                            treatments and procedures in cardiology and cardiothoracic surgery.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="service-item mb-4">
-                    <div class="icon d-flex align-items-center">
-                        <i class="icofont-heart-beat-alt text-lg"></i>
-                        <h4 class="mt-3 mb-3 ml-2">Endocrinology</h4>
-                    </div>
-                    <div class="content">
-                        <p class="mb-4">Dr. Rajendra Gode Multispeciality & General Hospital performi a multitude of
-                            treatments and procedures in cardiology and cardiothoracic surgery.</p>
+                        <p class="mb-4">Our Department of General Medicine provides a wide range of clinical services
+                            incorporating ...</p>
+                        <a href="s4_GeneralMedicine.php" class="read-more">Learn More <i
+                                    class="icofont-simple-right ml-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -119,116 +90,10 @@
                         <h4 class="mt-3 mb-3 ml-2">General Surgery</h4>
                     </div>
                     <div class="content">
-                        <p class="mb-4">Dr. Rajendra Gode Multispeciality & General Hospital performi a multitude of
-                            treatments and procedures in cardiology and cardiothoracic surgery.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="service-item mb-4">
-                    <div class="icon d-flex align-items-center">
-                        <i class="icofont-heart-beat-alt text-lg"></i>
-                        <h4 class="mt-3 mb-3 ml-2">Cardiology and Cardio Thoracic</h4>
-                    </div>
-                    <div class="content">
-                        <p class="mb-4">Dr. Rajendra Gode Multispeciality & General Hospital performi a multitude of
-                            treatments and procedures in cardiology and cardiothoracic surgery.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="service-item mb-4">
-                    <div class="icon d-flex align-items-center">
-                        <i class="icofont-heart-beat-alt text-lg"></i>
-                        <h4 class="mt-3 mb-3 ml-2">Internal Medicine</h4>
-                    </div>
-                    <div class="content">
-                        <p class="mb-4">Dr. Rajendra Gode Multispeciality & General Hospital performi a multitude of
-                            treatments and procedures in cardiology and cardiothoracic surgery.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="service-item mb-4">
-                    <div class="icon d-flex align-items-center">
-                        <i class="icofont-heart-beat-alt text-lg"></i>
-                        <h4 class="mt-3 mb-3 ml-2">Obstetrics & Gynecology</h4>
-                    </div>
-                    <div class="content">
-                        <p class="mb-4">Dr. Rajendra Gode Multispeciality & General Hospital performi a multitude of
-                            treatments and procedures in cardiology and cardiothoracic surgery.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="service-item mb-4">
-                    <div class="icon d-flex align-items-center">
-                        <i class="icofont-heart-beat-alt text-lg"></i>
-                        <h4 class="mt-3 mb-3 ml-2">Ophthalmology</h4>
-                    </div>
-                    <div class="content">
-                        <p class="mb-4">Dr. Rajendra Gode Multispeciality & General Hospital performi a multitude of
-                            treatments and procedures in cardiology and cardiothoracic surgery.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="service-item mb-4">
-                    <div class="icon d-flex align-items-center">
-                        <i class="icofont-heart-beat-alt text-lg"></i>
-                        <h4 class="mt-3 mb-3 ml-2">Pediatrics & Neonatology</h4>
-                    </div>
-                    <div class="content">
-                        <p class="mb-4">Dr. Rajendra Gode Multispeciality & General Hospital performi a multitude of
-                            treatments and procedures in cardiology and cardiothoracic surgery.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="service-item mb-4">
-                    <div class="icon d-flex align-items-center">
-                        <i class="icofont-heart-beat-alt text-lg"></i>
-                        <h4 class="mt-3 mb-3 ml-2">Digestive & Liver Diseases</h4>
-                    </div>
-                    <div class="content">
-                        <p class="mb-4">Dr. Rajendra Gode Multispeciality & General Hospital performi a multitude of
-                            treatments and procedures in cardiology and cardiothoracic surgery.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="service-item mb-4">
-                    <div class="icon d-flex align-items-center">
-                        <i class="icofont-heart-beat-alt text-lg"></i>
-                        <h4 class="mt-3 mb-3 ml-2">ENT</h4>
-                    </div>
-                    <div class="content">
-                        <p class="mb-4">Dr. Rajendra Gode Multispeciality & General Hospital performi a multitude of
-                            treatments and procedures in cardiology and cardiothoracic surgery.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="service-item mb-4">
-                    <div class="icon d-flex align-items-center">
-                        <i class="icofont-heart-beat-alt text-lg"></i>
-                        <h4 class="mt-3 mb-3 ml-2">Oral & Maxillofacial Surgery</h4>
-                    </div>
-                    <div class="content">
-                        <p class="mb-4">Dr. Rajendra Gode Multispeciality & General Hospital performi a multitude of
-                            treatments and procedures in cardiology and cardiothoracic surgery.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="service-item mb-4">
-                    <div class="icon d-flex align-items-center">
-                        <i class="icofont-heart-beat-alt text-lg"></i>
-                        <h4 class="mt-3 mb-3 ml-2">Head & Neck Oncology</h4>
-                    </div>
-                    <div class="content">
-                        <p class="mb-4">Dr. Rajendra Gode Multispeciality & General Hospital performi a multitude of
-                            treatments and procedures in cardiology and cardiothoracic surgery.</p>
+                        <p class="mb-4">Our Department of General Surgery provides a wide array of cost-effective
+                            services including ...</p>
+                        <a href="s5_GeneralSurgery.php" class="read-more">Learn More <i
+                                    class="icofont-simple-right ml-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -236,10 +101,13 @@
                 <div class="service-item mb-4">
                     <div class="icon d-flex align-items-center">
                         <i class="icofont-tooth text-lg"></i>
-                        <h4 class="mt-3 mb-3 ml-2">Pediatrics & Neonatology</h4>
+                        <h4 class="mt-3 mb-3 ml-2">Pediatrics</h4>
                     </div>
                     <div class="content">
-                        <p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
+                        <p class="mb-4">Our Department of Pediatrics & Neonatology provides the highest level of care
+                            for children ...</p>
+                        <a href="s6_Pediatrics.php" class="read-more">Learn More <i
+                                    class="icofont-simple-right ml-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -247,11 +115,13 @@
                 <div class="service-item mb-4">
                     <div class="icon d-flex align-items-center">
                         <i class="icofont-crutch text-lg"></i>
-                        <h4 class="mt-3 mb-3 ml-2">Physiotherapy & Rehabilitation</h4>
+                        <h4 class="mt-3 mb-3 ml-2">Orthopedics</h4>
                     </div>
                     <div class="content">
-                        <p class="mb-4">We have dedicated & well equipped Orthopedic surgery complexes with laminar flow
-                            & various modern equipment like image intensifier etc.</p>
+                        <p class="mb-4">Our Department of Orthopedics offers a wide range of medical and surgical
+                            treatments for bone ...</p>
+                        <a href="s7_Orthopedics.php" class="read-more">Learn More <i
+                                    class="icofont-simple-right ml-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -259,11 +129,41 @@
                 <div class="service-item mb-4">
                     <div class="icon d-flex align-items-center">
                         <i class="icofont-brain-alt text-lg"></i>
-                        <h4 class="mt-3 mb-3 ml-2">Plastic, Reconstruction & Aesthetic Surgery</h4>
+                        <h4 class="mt-3 mb-3 ml-2">Ophthalmology</h4>
                     </div>
                     <div class="content">
-                        <p class="mb-4">Dr. Rajendra Gode Multispeciality & General Hospital is one of the best
-                            neurology and neurosurgery hospital in Amravati with a legacy of excellence. </p>
+                        <p class="mb-4">Our Department of Ophthalmology offers routine eye examinations along with a
+                            wide range of ...</p>
+                        <a href="s8_Ophthalmology.php" class="read-more">Learn More <i
+                                    class="icofont-simple-right ml-2"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="service-item mb-4">
+                    <div class="icon d-flex align-items-center">
+                        <i class="icofont-dna-alt-1 text-lg"></i>
+                        <h4 class="mt-3 mb-3 ml-2">Ear, Nose, Throat (ENT)</h4>
+                    </div>
+                    <div class="content">
+                        <p class="mb-4">Our Department of ENT focuses on studying and treating disorders of the ear,
+                            nose, throat, head ...</p>
+                        <a href="s9_Ear,%20Nose,%20Throat%20(ENT).php" class="read-more">Learn More <i
+                                    class="icofont-simple-right ml-2"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="service-item mb-4">
+                    <div class="icon d-flex align-items-center">
+                        <i class="icofont-dna-alt-1 text-lg"></i>
+                        <h4 class="mt-3 mb-3 ml-2">Dermatology</h4>
+                    </div>
+                    <div class="content">
+                        <p class="mb-4">Our Department of Dermatology provides a comprehensive approach to skincare
+                            through ...</p>
+                        <a href="s10_Dermatology.php" class="read-more">Learn More <i
+                                    class="icofont-simple-right ml-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -274,7 +174,10 @@
                         <h4 class="mt-3 mb-3 ml-2">Pulmonary Medicine</h4>
                     </div>
                     <div class="content">
-                        <p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
+                        <p class="mb-4">Our Department of Pulmonary Medicine provides quality care to people with
+                            complex medical ...</p>
+                        <a href="s11_Pulmonary%20Medicine.php" class="read-more">Learn More <i
+                                    class="icofont-simple-right ml-2"></i></a>
                     </div>
                 </div>
             </div>
@@ -282,32 +185,13 @@
                 <div class="service-item mb-4">
                     <div class="icon d-flex align-items-center">
                         <i class="icofont-dna-alt-1 text-lg"></i>
-                        <h4 class="mt-3 mb-3 ml-2">Radio-Diagnosis & Imaging</h4>
+                        <h4 class="mt-3 mb-3 ml-2">Psychiatry</h4>
                     </div>
                     <div class="content">
-                        <p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="service-item mb-4">
-                    <div class="icon d-flex align-items-center">
-                        <i class="icofont-dna-alt-1 text-lg"></i>
-                        <h4 class="mt-3 mb-3 ml-2">Transfusion Medicine & Blood Bank</h4>
-                    </div>
-                    <div class="content">
-                        <p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="service-item mb-4">
-                    <div class="icon d-flex align-items-center">
-                        <i class="icofont-dna-alt-1 text-lg"></i>
-                        <h4 class="mt-3 mb-3 ml-2">Neurosurgery</h4>
-                    </div>
-                    <div class="content">
-                        <p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
+                        <p class="mb-4">Our Department of Psychiatry offers a range of mental health services in a safe
+                            environment. ...</p>
+                        <a href="s12_Psychiatry.php" class="read-more">Learn More <i
+                                    class="icofont-simple-right ml-2"></i></a>
                     </div>
                 </div>
             </div>

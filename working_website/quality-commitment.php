@@ -18,8 +18,9 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="department-content mt-1">
-                    <h3 class="text-md">Quality Commitment</h3>
+                    <h3 class="text-md">Quality</h3>
                     <div class="divider my-4"></div>
+
                     <p>Dr.Rajendra Gode Multispecialty and General Hospital is committed to providing the highest and
                         safest quality care to all patients. It is imperative for us to put our patients at the center
                         of everything we do, and continuously improve the quality of care that we provide by

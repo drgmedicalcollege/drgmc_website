@@ -30,8 +30,8 @@
                 <div class="doctor-img-block">
                     <img src="images/precident.jpg" alt="" class="img-fluid w-100">
                     <div class="info-block mt-4">
-                        <h4 class="mb-0 text-center">Mr. Yogendra R. Gode</h4>
-                        <p class="text-center">Hon'ble President</p>
+                        <h4 class="mb-0 text-center">Yogendra R. Gode</h4>
+<!--                        <p class="text-center">Hon'ble President</p>-->
                     </div>
                 </div>
             </div>

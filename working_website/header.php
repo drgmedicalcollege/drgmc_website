@@ -25,7 +25,7 @@
             display: block;
             position: absolute;
             background-color: #f9f9f9;
-            width: 670px;
+            width: 580px;
             left: 0;
             z-index: 1;
         }
@@ -37,7 +37,7 @@
         /* Create three equal columns that floats next to each other */
         .column {
             float: left;
-            width: 220px;
+            width: 190px;
             padding: 0px;
             margin: 0px;
             height: auto;
@@ -63,7 +63,8 @@
                 <ul class="top-bar-info list-inline-item pl-0 mb-0">
                     <li class="list-inline-item"><a href="mailto:support@gmail.com"><i
                                     class="icofont-support-faq mr-2 ml-5"></i>drgmc@gmail.com</a></li>
-                    <li class="list-inline-item"><i class="icofont-location-pin mr-2"></i>Amravati , Maharashtra</li>
+                    <li class="list-inline-item"><a href="https://goo.gl/maps/kfkLKmjBzABhnXjo6" target="_blank"
+                                                    rel="noreferrer noopener"><i class="icofont-location-pin mr-2"></i>Amravati Maharashtra</a></li>
                 </ul>
             </div>
             <div class="col-lg-6">
@@ -87,9 +88,9 @@
         </div>
     </div>
     <nav class="navbar navbar-expand-lg navigation" id="navbar">
-        <div class="container">
+        <div class="container-fluid">
             <a href="index.php">
-                <img src="images/logo.svg" alt="" class="img-fluid" style="height: 83px;">
+                <img src="images/logo_black.svg" alt="" class="img-fluid" style="height: 83px;">
             </a>
             <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarmain"
                     aria-controls="navbarmain" aria-expanded="false" aria-label="Toggle navigation">
@@ -129,15 +130,18 @@
                                         </li>
                                     </div>
                                     <div class="column">
-                                        <li><a class="dropdown-item" href="s5_GeneralSurgery.php">General Surgery</a></li>
+                                        <li><a class="dropdown-item" href="s5_GeneralSurgery.php">General Surgery</a>
+                                        </li>
                                         <li><a class="dropdown-item" href="s6_Pediatrics.php">Pediatrics</a></li>
                                         <li><a class="dropdown-item" href="s7_Orthopedics.php">Orthopedics</a></li>
                                         <li><a class="dropdown-item" href="s8_Ophthalmology.php">Ophthalmology</a></li>
                                     </div>
                                     <div class="column">
-                                        <li><a class="dropdown-item" href="s9_Ear,%20Nose,%20Throat%20(ENT).php">Ear, Nose, Throat (ENT)</a></li>
+                                        <li><a class="dropdown-item" href="s9_Ear,%20Nose,%20Throat%20(ENT).php">Ear,
+                                                Nose, Throat (ENT)</a></li>
                                         <li><a class="dropdown-item" href="s10_Dermatology.php">Dermatology</a></li>
-                                        <li><a class="dropdown-item" href="s11_Pulmonary%20Medicine.php">Pulmonary Medicine</a></li>
+                                        <li><a class="dropdown-item" href="s11_Pulmonary%20Medicine.php">Pulmonary
+                                                Medicine</a></li>
                                         <li><a class="dropdown-item" href="s12_Psychiatry.php">Psychiatry</a></li>
                                     </div>
                                 </ul>

@@ -1,15 +1,17 @@
 <?php
 ?>
 <!-- footer Start -->
-<footer class="footer section text-light pt-5 " style='background: #223a66;'>
+<!--style='background: #223a66;'-->
+<footer class="footer section text-light pt-5 bg-primary-dark">
     <div class="px-5">
         <div class="row">
             <div class="col-lg-4 mr-auto col-sm-6">
                 <div class="widget   mb-lg-0">
                     <div class="logo mb-4">
-                        <img src="images/logo.svg" alt="" class="img-fluid">
+                        <img src="images/logo_white.svg" class="img-fluid" style="height: 80%; width: 80%" alt="">
                     </div>
-                    <p> Dr. Rajendra Gode Multispeciality & General Hospital <br> Amravati, Maharashtra</p>
+                    <p> Dr. Rajendra Gode Multispeciality & General Hospital <br> Mardi Road,
+                        Amravati, Maharashtra 444603</p>
                     <ul class="list-inline footer-socials mt-4">
                         <li class="list-inline-item"><a href="https://www.facebook.com/themefisher"><i
                                         class="icofont-facebook text-light"></i></a></li>
@@ -53,7 +55,8 @@
                     <h6 class="text-capitalize my-0 text-light"><i class="fa fa-bookmark" aria-hidden="true"></i> DRG
                         INSTITUTIONS</h6>
                     <ul class="list-unstyled footer-menu ">
-                        <li class="my-2 "><a href="https://gachospital.org" style="color: #6F8BA4;">Dr. Rajendra Gode Ayurved College and
+                        <li class="my-2 "><a href="https://gachospital.org" style="color: #6F8BA4;">Dr. Rajendra Gode
+                                Ayurved College and
                                 Hospital, Amravati</a></li>
                         <li class="my-2 "><a href="http://www.rgiop.com/" style="color: #6F8BA4;">Dr. Rajendra Gode
                                 Institute of Pharmacy, Amravati</a></li>

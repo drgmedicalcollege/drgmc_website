@@ -35,7 +35,7 @@
                     <p></p>
                     <a href="appoinment.php" class="btn btn-main-2 btn-round-full">Make an Appoinment<i
                                 class="icofont-simple-right ml-2  "></i></a>
-                    <h3 class="mt-5 mb-4">Services features</h3>
+                    <h3 class="mt-5 mb-4">Some of our services include:</h3>
                     <div class="divider my-4"></div>
                     <ul class="list-unstyled department-service">
                         <li><i class="icofont-check mr-2"></i>General Surgery</li>
