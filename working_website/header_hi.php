@@ -53,8 +53,8 @@
 <body id="top">
 <header>
     <div class="header-top-bar py-0 bg-light text-danger font-weight-bold">
-        <marquee scrollamount="12">******* Ambulance services available! ******* 24x7 Emergency services ******* Please
-            Ask for the revised rates *******
+        <marquee scrollamount="12">******* एम्बुलेंस सेवा उपलब्ध! ******* 24x7 आपातकालीन सेवाएं ******* कृपया संशोधित
+            दरों के लिए पूछें *******
         </marquee>
     </div>
     <div class="header-top-bar py-0">
@@ -64,14 +64,14 @@
                     <li class="list-inline-item"><a href="mailto:support@gmail.com"><i
                                     class="icofont-support-faq mr-2 ml-5"></i>drgmc@gmail.com</a></li>
                     <li class="list-inline-item"><a href="https://goo.gl/maps/kfkLKmjBzABhnXjo6" target="_blank"
-                                                    rel="noreferrer noopener"><i class="icofont-location-pin mr-2"></i>Amravati
-                            Maharashtra</a></li>
+                                                    rel="noreferrer noopener"><i class="icofont-location-pin mr-2"></i>अमरावती
+                            महाराष्ट्र</a></li>
                 </ul>
             </div>
             <div class="col-lg-6">
                 <div class="text-lg-right top-right-bar mt-2 mt-lg-0">
                     <a href="tel:+23-345-67890">
-                        <span>Call Now : </span>
+                        <span>संपर्क करें : </span>
                         <span>+91 78877212345 | 0721 257259 | 0721 257257</span>
                     </a>
                 </div>
@@ -79,8 +79,8 @@
             <div class="form-group  col mr-2 mb-0 my-1 px-5">
                 <select class="form-control form-control-sm  my-0 py-0 border-0 rounded-pill"
                         id="exampleFormControlSelect1">
-                    <option selected="selected">English</option>
-                    <option value="index_hi.php">Hindi</option>
+                    <option selected="selected">Hindi</option>
+                    <option value="index.php">English</option>
                 </select>
             </div>
         </div>
@@ -97,7 +97,7 @@
             <div class="collapse navbar-collapse" id="navbarmain">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item active">
-                        <a class="nav-link " href="index.php">Home</a>
+                        <a class="nav-link " href="index.php">होम</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="doctor.php" id="dropdown03" data-toggle="dropdown"
@@ -113,34 +113,35 @@
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="all-specialities.php" id="dropdown03"
-                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Specialities <i
+                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">विशेषता <i
                                     class="icofont-thin-down"></i></a>
                         <div class="dropdown-content">
                             <div class="row">
                                 <ul class="dropdown-menu">
                                     <div class="column">
-                                        <li><a class="dropdown-item" href="s1_anaesthesiology.php">Anaesthesiology</a>
+                                        <li><a class="dropdown-item" href="s1_anaesthesiology.php">अनेस्थिसियोलॉजी</a>
                                         </li>
-                                        <li><a class="dropdown-item" href="s2_obstetrics.php">Obstetrics &
-                                                Gynecology</a></li>
-                                        <li><a class="dropdown-item" href="s3_Cardiology.php">Cardiology</a></li>
-                                        <li><a class="dropdown-item" href="s4_GeneralMedicine.php">General Medicine</a>
+                                        <li><a class="dropdown-item" href="s2_obstetrics.php">प्रसूति & प्रसूतिशास्र</a>
+                                        </li>
+                                        <li><a class="dropdown-item" href="s3_Cardiology.php">कार्डियलजी</a></li>
+                                        <li><a class="dropdown-item" href="s4_GeneralMedicine.php">सामान्य दवा</a>
                                         </li>
                                     </div>
                                     <div class="column">
-                                        <li><a class="dropdown-item" href="s5_GeneralSurgery.php">General Surgery</a>
+                                        <li><a class="dropdown-item" href="s5_GeneralSurgery.php">सामान्य शल्य
+                                                चिकित्सा</a>
                                         </li>
-                                        <li><a class="dropdown-item" href="s6_Pediatrics.php">Pediatrics</a></li>
-                                        <li><a class="dropdown-item" href="s7_Orthopedics.php">Orthopedics</a></li>
-                                        <li><a class="dropdown-item" href="s8_Ophthalmology.php">Ophthalmology</a></li>
+                                        <li><a class="dropdown-item" href="s6_Pediatrics.php">बच्चों का चिकित्सक</a>
+                                        </li>
+                                        <li><a class="dropdown-item" href="s7_Orthopedics.php">हड्डी रोग</a></li>
+                                        <li><a class="dropdown-item" href="s8_Ophthalmology.php">नेत्र विज्ञान</a></li>
                                     </div>
                                     <div class="column">
-                                        <li><a class="dropdown-item" href="s9_Ear,%20Nose,%20Throat%20(ENT).php">Ear,
-                                                Nose, Throat (ENT)</a></li>
-                                        <li><a class="dropdown-item" href="s10_Dermatology.php">Dermatology</a></li>
-                                        <li><a class="dropdown-item" href="s11_Pulmonary%20Medicine.php">Pulmonary
-                                                Medicine</a></li>
-                                        <li><a class="dropdown-item" href="s12_Psychiatry.php">Psychiatry</a></li>
+                                        <li><a class="dropdown-item" href="s9_Ear,%20Nose,%20Throat%20(ENT).php">कान,
+                                                नाक, गला (ईएनटी)</a></li>
+                                        <li><a class="dropdown-item" href="s10_Dermatology.php">त्वचा विज्ञान</a></li>
+                                        <li><a class="dropdown-item" href="s11_Pulmonary%20Medicine.php">पल्मोनरी मेडिसिन</a></li>
+                                        <li><a class="dropdown-item" href="s12_Psychiatry.php">मनश्चिकित्सा</a></li>
                                     </div>
                                 </ul>
                             </div>
@@ -148,25 +149,25 @@
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="all-facilities.php" id="dropdown03"
-                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Facilities <i
+                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">सुविधाएं <i
                                     class="icofont-thin-down"></i></a>
                         <ul class="dropdown-menu" aria-labelledby="dropdown03">
-                            <li><a class="dropdown-item" href="f1_pharmacy.php">Pharmacy</a></li>
-                            <li><a class="dropdown-item" href="f1_pharmacy.php">Blood bank </a></li>
-                            <li><a class="dropdown-item" href="f1_pharmacy.php">Emergency services</a></li>
-                            <li><a class="dropdown-item" href="f1_pharmacy.php">Intensive care unit (ICU)</a></li>
-                            <li><a class="dropdown-item" href="f1_pharmacy.php">Ambulance</a></li>
-                            <li><a class="dropdown-item" href="f1_pharmacy.php">Cafeteria</a>
-                            <li><a class="dropdown-item" href="f1_pharmacy.php">In Patient Department</a>
-                            <li><a class="dropdown-item" href="f1_pharmacy.php">Out Patient Department</a>
-                            <li><a class="dropdown-item" href="f1_pharmacy.php">Online Consultation</a></li>
-                            <li><a class="dropdown-item" href="f1_pharmacy.php">Operation Theatres</a></li>
+                            <li><a class="dropdown-item" href="f1_pharmacy.php">फार्मेसी</a></li>
+                            <li><a class="dropdown-item" href="f1_pharmacy.php">रक्त बैंक</a></li>
+                            <li><a class="dropdown-item" href="f1_pharmacy.php">आपातकालीन सेवाएं</a></li>
+                            <li><a class="dropdown-item" href="f1_pharmacy.php">गहन देखभाल इकाई (आईसीयू)</a></li>
+                            <li><a class="dropdown-item" href="f1_pharmacy.php">रोगी वाहन</a></li>
+                            <li><a class="dropdown-item" href="f1_pharmacy.php">काफ़ीहाउस</a>
+                            <li><a class="dropdown-item" href="f1_pharmacy.php">आवक रोगी विभाग</a>
+                            <li><a class="dropdown-item" href="f1_pharmacy.php">जावक रोगी विभाग</a>
+                            <li><a class="dropdown-item" href="f1_pharmacy.php">ऑनलाइन परामर्श</a></li>
+                            <li><a class="dropdown-item" href="f1_pharmacy.php">ऑपरेशन थियेटर</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item"><a class="nav-link" href="doctor.php">Doctors</a></li>
-                    <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
+                    <li class="nav-item"><a class="nav-link" href="doctor.php">चिकित्सक</a></li>
+                    <li class="nav-item"><a class="nav-link" href="contact.php">संपर्क करें</a></li>
                     <li class="nav-item"><a href='appoinment.php'
-                                            class="btn btn-outline-primary rounded-pill btn-sm"> MAKE A APPOINTMENT
+                                            class="btn btn-outline-primary rounded-pill btn-sm"> ऑनलाइन अपॉइंटमेंट
                             <i class="fa fa-paper-plane" aria-hidden="true"></i></a></li>
                 </ul>
             </div>
@@ -174,11 +175,13 @@
     </nav>
 </header>
 <script>
-    document.getElementById("exampleFormControlSelect1").onclick = function() {myFunction()};
+    document.getElementById("exampleFormControlSelect1").onclick = function () {
+        myFunction()
+    };
 
     function myFunction() {
         // redirect page to another page by getid
-        window.location.href = "index_hi.php";
+        window.location.href = "index.php";
     }
 </script>
 </body>

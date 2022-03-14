@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
 <?php include 'header.php'; ?>
-
 <body id="top">
-
 <section class="page-title bg-1">
     <div class="overlay"></div>
     <div class="container">
@@ -17,7 +15,6 @@
         </div>
     </div>
 </section>
-
 <section class="appoinment section">
     <div class="container">
         <div class="row">
@@ -30,13 +27,12 @@
                     <h2 class="text-color mt-3">+84 789 1256 </h2>
                 </div>
             </div>
-
             <div class="col-lg-8">
                 <div class="appoinment-wrap mt-5 mt-lg-0 pl-lg-5">
                     <h2 class="mb-2 title-color">Book an appoinment</h2>
                     <p class="mb-4">Mollitia dicta commodi est recusandae iste, natus eum asperiores corrupti qui velit
                         . Iste dolorum atque similique praesentium soluta.</p>
-                    <form id="#" class="appoinment-form" method="post" action="#">
+                    <form name="sentMessage" id="#" class="appoinment-form" action="mail.php" method="post">
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="form-group">
@@ -66,14 +62,12 @@
                                     </select>
                                 </div>
                             </div>
-
                             <div class="col-lg-6">
                                 <div class="form-group">
                                     <input name="date" id="date" type="text" class="form-control"
                                            placeholder="dd/mm/yyyy">
                                 </div>
                             </div>
-
                             <div class="col-lg-6">
                                 <div class="form-group">
                                     <input name="time" id="time" type="text" class="form-control" placeholder="Time">
@@ -85,7 +79,6 @@
                                            placeholder="Full Name">
                                 </div>
                             </div>
-
                             <div class="col-lg-6">
                                 <div class="form-group">
                                     <input name="phone" id="phone" type="Number" class="form-control"
@@ -97,8 +90,8 @@
                             <textarea name="message" id="message" class="form-control" rows="6"
                                       placeholder="Your Message"></textarea>
                         </div>
-
-                        <a class="btn btn-main btn-round-full" href="confirmation.html">Make Appoinment<i
+                        <input class="btn btn-main btn-round-full" type="submit" name="appointment">
+                        <a class="btn btn-main btn-round-full" href="confirmation.html">Make Appointment<i
                                     class="icofont-simple-right ml-2"></i></a>
                     </form>
                 </div>
@@ -106,7 +99,6 @@
         </div>
     </div>
 </section>
-
 <?php include 'footer.php'; ?>
 </body>
 </html>

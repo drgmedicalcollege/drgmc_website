@@ -25,13 +25,15 @@
             <div class="department-content mt-5">
                 <h3 class="text-md">About Hospital</h3>
                 <div class="divider my-4"></div>
-                <p class="lead">Established by Yogendra Gode in 2022, Dr. Rajendra Gode (DRG) Multispecialty and General
+                <p class="lead">Dr. Rajendra Gode Hospital is established in 2019, by Yogendra Gode. Proposed Dr.
+                    Rajendra Gode (DRG) Multispecialty and General
                     Hospital is an emerging premier healthcare institution that provides an array of quality healthcare
                     services in Amravati. Spread over 20 acres of land, the hospital comprises of 350 beds. It is also
                     the principal teaching affiliate of Dr. Rajendra Gode Medical College (DRGMC) located within the
                     same campus in Amravati that educates and inspires the caregivers of tomorrow. We are committed to
                     providing excellence in clinical care, teaching, research, and community outreach.</p>
-                <p class="lead">At DRG Multispecialty and General Hospital, we believe in putting patients first and focusing on
+                <p class="lead">At DRG Multispecialty and General Hospital, we believe in putting patients first and
+                    focusing on
                     their health and well-being in a compassionate manner. </p>
             </div>
             <div class="row">

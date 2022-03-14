@@ -20,9 +20,9 @@
         <div class="row justify-content-center">
             <div class="col-lg-7 text-center">
                 <div class="section-title">
-                    <p class="text-dark"><b>Dr. Rajendra Gode Multispeciality & General Hospital </b> in Amravati is
-                        accommodated with various speciality departments and consultant physicians to offer
-                        comprehensive medical care, best treatment and other healthcare facilities under one roof.</p>
+                    <p class="text-dark"> We offer quality and cost-effective medical services through various
+                        departments comprising of
+                        a skilled team of professionals across disciplines.</p>
                 </div>
             </div>
         </div>

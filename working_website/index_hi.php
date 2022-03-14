@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="zxx">
-<?php include 'header.php'; ?>
+<?php include 'header_hi.php'; ?>
 <body id="top">
 <div class="slidercontainer">
     <div class="carrousel" style="--object-fit:cover;height:500px">
@@ -21,32 +21,33 @@
                         <div class="feature-icon">
                             <i class="icofont-surgeon-alt"></i>
                         </div>
-                        <span>24 Hours Service</span>
-                        <h4 class="mb-3">Online Appointment</h4>
-                        <p class="mb-4">Get all time IN-PERSON and VIRTUAL support</p>
-                        <a href="appoinment.php" class="btn btn-main btn-round-full">Make a appointment <i
+                        <span>24 घंटे सेवा</span>
+                        <h4 class="mb-3">ऑनलाइन अपॉइंटमेंट</h4>
+                        <p class="mb-4">हर समय व्यक्तिगत और आभासी सहायता प्राप्त करें</p>
+                        <a href="appoinment.php" class="btn btn-main btn-round-full">अपॉइंटमेंट लें<i
                                     class="fa fa-paper-plane" aria-hidden="true"></i></a>
                     </div>
                     <div class="feature-item mb-5 mb-lg-0">
                         <div class="feature-icon mb-4">
                             <i class="icofont-ui-clock"></i>
                         </div>
-                        <span>Timing schedule</span>
-                        <h4 class="mb-3">Working Hours</h4>
+                        <span>समय सारिणी</span>
+                        <h4 class="mb-3">कार्य के घंटे</h4>
                         <ul class="w-hours list-unstyled">
-                            <li class="d-flex justify-content-between">Sun - Wed : <span>8:00 - 17:00</span></li>
-                            <li class="d-flex justify-content-between">Thu - Fri : <span>9:00 - 17:00</span></li>
-                            <li class="d-flex justify-content-between">Sat - sun : <span>10:00 - 17:00</span></li>
+                            <li class="d-flex justify-content-between">रविवार - बुधवार : <span>8:00 - 17:00</span></li>
+                            <li class="d-flex justify-content-between">गुरूवार - शुक्रवार : <span>9:00 - 17:00</span>
+                            </li>
+                            <li class="d-flex justify-content-between">शनिवार - रविवार : <span>10:00 - 17:00</span></li>
                         </ul>
                     </div>
                     <div class="feature-item mb-5 mb-lg-0">
                         <div class="feature-icon mb-4">
                             <i class="icofont-support"></i>
                         </div>
-                        <span>Emergency Contact</span>
+                        <span>आपातकालीन संपर्क</span>
                         <h4 class="mb-3">+91 7545562263</h4>
-                        <p>Get ALl time support for emergency.We have introduced the principle of family medicine.Get
-                            Conneted with us for any urgency .</p>
+                        <p>आपातकाल के लिए हर समय सहायता प्राप्त करें। हमने पारिवारिक चिकित्सा के सिद्धांत को पेश किया
+                            है। किसी भी अत्यावश्यकता के लिए हमसे जुड़ें।</p>
                     </div>
                 </div>
             </div>
@@ -58,11 +59,10 @@
         <div class="row justify-content-center">
             <div class="col-lg-7 text-center">
                 <div class="section-title">
-                    <h2>Our Specialities</h2>
+                    <h2>हमारी विशेषता</h2>
                     <div class="divider mx-auto my-4"></div>
-                    <p class="text-dark"> We offer quality and cost-effective medical services through various
-                        departments comprising of
-                        a skilled team of professionals across disciplines.</p>
+                    <p class="text-dark">हम विभिन्न विभागों के माध्यम से गुणवत्तापूर्ण और लागत प्रभावी चिकित्सा सेवाएं
+                        प्रदान करते हैं, जिसमें सभी विषयों के पेशेवरों की कुशल टीम शामिल है।</p>
                 </div>
             </div>
         </div>
@@ -71,12 +71,12 @@
                 <div class="service-item mb-4">
                     <div class="icon d-flex align-items-center">
                         <i class="icofont-laboratory text-lg"></i>
-                        <h4 class="mt-3 mb-3 ml-2">Anesthesiology</h4>
+                        <h4 class="mt-3 mb-3 ml-2">एनेस्थिसियोलॉजी</h4>
                     </div>
                     <div class="content">
-                        <p class="mb-4">Our Department of Anesthesia provides various anesthesia services in areas such
-                            as post-surgery pain...</p>
-                        <a href="s1_anaesthesiology.php" class="read-more">Learn More <i
+                        <p class="mb-4">हमारा एनेस्थीसिया विभाग सर्जरी के बाद के दर्द जैसे क्षेत्रों में विभिन्न
+                            एनेस्थीसिया सेवाएं प्रदान करता है...</p>
+                        <a href="s1_anaesthesiology.php" class="read-more">और अधिक जानें<i
                                     class="icofont-simple-right ml-2"></i></a>
                     </div>
                 </div>
@@ -85,12 +85,12 @@
                 <div class="service-item mb-4">
                     <div class="icon d-flex align-items-center">
                         <i class="icofont-heart-beat-alt text-lg"></i>
-                        <h4 class="mt-3 mb-3  ml-2">Obstetrics&Gynecology</h4>
+                        <h4 class="mt-3 mb-3  ml-2">प्रसूति & प्रसूतिशास्र</h4>
                     </div>
                     <div class="content">
-                        <p class="mb-4">Our Obstetrics & gynecology department aims to provide high quality health care
-                            for women. ...</p>
-                        <a href="s2_obstetrics.php" class="read-more">Learn More <i
+                        <p class="mb-4">हमारे प्रसूति एवं स्त्री रोग विभाग का उद्देश्य महिलाओं को उच्च गुणवत्ता वाली
+                            स्वास्थ्य देखभाल प्रदान करना है।...</p>
+                        <a href="s2_obstetrics.php" class="read-more">और अधिक जानें <i
                                     class="icofont-simple-right ml-2"></i></a>
                     </div>
                 </div>
@@ -99,12 +99,12 @@
                 <div class="service-item mb-4">
                     <div class="icon d-flex align-items-center">
                         <i class="icofont-tooth text-lg"></i>
-                        <h4 class="mt-3 mb-3  ml-2">Cardiology</h4>
+                        <h4 class="mt-3 mb-3  ml-2">कार्डियलजी</h4>
                     </div>
                     <div class="content">
-                        <p class="mb-4">Our Department of Cardiology understands the stress caused to patients and their
-                            families ...</p>
-                        <a href="s3_Cardiology.php" class="read-more">Learn More <i
+                        <p class="mb-4">हमारा कार्डियोलॉजी विभाग मरीजों और उनके परिवारों को होने वाले तनाव को समझता है
+                            ...</p>
+                        <a href="s3_Cardiology.php" class="read-more">और अधिक जानें <i
                                     class="icofont-simple-right ml-2"></i></a>
                     </div>
                 </div>
@@ -113,12 +113,12 @@
                 <div class="service-item mb-4">
                     <div class="icon d-flex align-items-center">
                         <i class="icofont-crutch text-lg"></i>
-                        <h4 class="mt-3 mb-3  ml-2">General Medicine</h4>
+                        <h4 class="mt-3 mb-3  ml-2">सामान्य दवा</h4>
                     </div>
                     <div class="content">
-                        <p class="mb-4">Our Department of General Medicine provides a wide range of clinical services
-                            incorporating ...</p>
-                        <a href="s4_GeneralMedicine.php" class="read-more">Learn More <i
+                        <p class="mb-4">हमारा सामान्य चिकित्सा विभाग नैदानिक सेवाओं की एक विस्तृत श्रृंखला प्रदान करता
+                            है जिसमें शामिल हैं...</p>
+                        <a href="s4_GeneralMedicine.php" class="read-more">और अधिक जानें <i
                                     class="icofont-simple-right ml-2"></i></a>
                     </div>
                 </div>
@@ -127,12 +127,12 @@
                 <div class="service-item mb-4">
                     <div class="icon d-flex align-items-center">
                         <i class="icofont-brain-alt text-lg"></i>
-                        <h4 class="mt-3 mb-3  ml-2">General Surgery</h4>
+                        <h4 class="mt-3 mb-3  ml-2">सामान्य शल्य चिकित्सा</h4>
                     </div>
                     <div class="content">
-                        <p class="mb-4">Our Department of General Surgery provides a wide array of cost-effective
-                            services including ...</p>
-                        <a href="s5_GeneralSurgery.php" class="read-more">Learn More <i
+                        <p class="mb-4">हमारा सामान्य सर्जरी विभाग लागत प्रभावी सेवाओं की एक विस्तृत श्रृंखला प्रदान
+                            करता है जिसमें शामिल हैं: ...</p>
+                        <a href="s5_GeneralSurgery.php" class="read-more">और अधिक जानें <i
                                     class="icofont-simple-right ml-2"></i></a>
                     </div>
                 </div>
@@ -141,18 +141,19 @@
                 <div class="service-item mb-4">
                     <div class="icon d-flex align-items-center">
                         <i class="icofont-dna-alt-1 text-lg"></i>
-                        <h4 class="mt-3 mb-3  ml-2">Pediatrics</h4>
+                        <h4 class="mt-3 mb-3  ml-2">बच्चों का चिकित्सक</h4>
                     </div>
                     <div class="content">
-                        <p class="mb-4">Our Department of Pediatrics & Neonatology provides the highest level of care
-                            for children ...</p>
-                        <a href="s6_Pediatrics.php" class="read-more">Learn More <i
+                        <p class="mb-4">हमारा बाल रोग और नियोनेटोलॉजी विभाग बच्चों के लिए उच्चतम स्तर की देखभाल प्रदान
+                            करता है ...</p>
+                        <a href="s6_Pediatrics.php" class="read-more">और अधिक जानें <i
                                     class="icofont-simple-right ml-2"></i></a>
                     </div>
                 </div>
             </div>
             <div class="d-flex align-items-center">
-                <a class="btn btn-main btn-round-full" style="margin-left: 490px" href="all-specialities.php">View All<i
+                <a class="btn btn-main btn-round-full" style="margin-left: 490px" href="all-specialities.php">सभी को
+                    देखें<i
                             class="icofont-simple-right ml-2  "></i></a>
             </div>
         </div>
@@ -167,8 +168,8 @@
             <div class="col-lg-6 col-md-12 col-xl-7">
                 <div class="block">
                     <div class="divider mb-3 text-center ml-3"></div>
-                    <span class="text-uppercase text-sm letter-spacing ml-4">Dr. Rajendra Gode Multispeciality & General Hospital</span>
-                    <h1 class="mb-3 mt-3 text-center">Exceptional Care Close to You</h1>
+                    <span class="text-uppercase text-sm letter-spacing ml-4">डॉ. राजेंद्र गोडे मल्टीस्पेशलिटी एंड जनरल हॉस्पिटल</span>
+                    <h1 class="mb-3 mt-3 text-center">आपके पास असाधारण देखभाल</h1>
                 </div>
             </div>
         </div>
@@ -191,9 +192,9 @@
         <div class="row justify-content-center">
             <div class="col-lg-7">
                 <div class="section-title text-center">
-                    <h2>Patient Testimonials</h2>
+                    <h2>रोगी प्रशंसापत्र</h2>
                     <div class="divider mx-auto my-4"></div>
-                    <p>In their own words, our patients tell us their experience</p>
+                    <p>उन्हीं के शब्दों में हमारे मरीज हमें अपना अनुभव बताते हैं</p>
                 </div>
             </div>
         </div>
@@ -207,11 +208,11 @@
                         <img src="images/user.png" class="img-fluid icofont-user-male" alt="">
                     </div>
                     <div class="client-info ">
-                        <h4>Amazing service!</h4>
-                        <span>Abhijeet</span>
+                        <h4>अद्भुत सेवा!</h4>
+                        <span>अभिजीत</span>
                         <p>
-                            They provide great service facilty consectetur adipisicing elit. Itaque rem,
-                            praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
+                            वे महान सेवा सुविधा, और सहायता प्रदान करते हैं। पूरे अनुभव के दौरान अद्भुत था। मुझे हर तरह
+                            का नैतिक और मानसिक समर्थन मिला।
                         </p>
                     </div>
                 </div>
@@ -220,25 +221,11 @@
                         <img src="images/user.png" alt="" class="img-fluid">
                     </div>
                     <div class="client-info">
-                        <h4>Expert doctors!</h4>
-                        <span>Swapnil </span>
+                        <h4>विशेषज्ञ डॉक्टर!</h4>
+                        <span>स्वप्निल</span>
                         <p>
-                            They provide great service facilty consectetur adipisicing elit. Itaque rem,
-                            praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
-                        </p>
-                    </div>
-                    <i class="icofont-quote-right"></i>
-                </div>
-                <div class="testimonial-block style-2  gray-bg">
-                    <div class="testimonial-thumb">
-                        <img src="images/user.png" alt="" class="img-fluid">
-                    </div>
-                    <div class="client-info">
-                        <h4>Good Support!</h4>
-                        <span>Ashwini</span>
-                        <p>
-                            They provide great service facilty consectetur adipisicing elit. Itaque rem,
-                            praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
+                            वे महान सेवा सुविधा, और सहायता प्रदान करते हैं। पूरे अनुभव के दौरान अद्भुत था। मुझे हर तरह
+                            का नैतिक और मानसिक समर्थन मिला।
                         </p>
                     </div>
                     <i class="icofont-quote-right"></i>
@@ -248,11 +235,25 @@
                         <img src="images/user.png" alt="" class="img-fluid">
                     </div>
                     <div class="client-info">
-                        <h4>Nice Environment!</h4>
-                        <span>Dhiraj</span>
+                        <h4>अच्छा समर्थन!</h4>
+                        <span>अश्विनी</span>
+                        <p>
+                            वे महान सेवा सुविधा, और सहायता प्रदान करते हैं। पूरे अनुभव के दौरान अद्भुत था। मुझे हर तरह
+                            का नैतिक और मानसिक समर्थन मिला।
+                        </p>
+                    </div>
+                    <i class="icofont-quote-right"></i>
+                </div>
+                <div class="testimonial-block style-2  gray-bg">
+                    <div class="testimonial-thumb">
+                        <img src="images/user.png" alt="" class="img-fluid">
+                    </div>
+                    <div class="client-info">
+                        <h4>अच्छा वातावरण!</h4>
+                        <span>धीरज</span>
                         <p class="mt-4">
-                            They provide great service facilty consectetur adipisicing elit. Itaque rem,
-                            praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
+                            वे महान सेवा सुविधा, और सहायता प्रदान करते हैं। पूरे अनुभव के दौरान अद्भुत था। मुझे हर तरह
+                            का नैतिक और मानसिक समर्थन मिला।
                         </p>
                     </div>
                     <i class="icofont-quote-right"></i>
@@ -262,11 +263,11 @@
                         <img src="images/user.png" alt="" class="img-fluid">
                     </div>
                     <div class="client-info">
-                        <h4>Modern Service!</h4>
-                        <span>Priyanka</span>
+                        <h4>आधुनिक सेवा!</h4>
+                        <span>प्रियंका</span>
                         <p>
-                            They provide great service facilty consectetur adipisicing elit. Itaque rem,
-                            praesentium, iure, ipsum magnam deleniti a vel eos adipisci suscipit fugit placeat.
+                            वे महान सेवा सुविधा, और सहायता प्रदान करते हैं। पूरे अनुभव के दौरान अद्भुत था। मुझे हर तरह
+                            का नैतिक और मानसिक समर्थन मिला।
                         </p>
                     </div>
                     <i class="icofont-quote-right"></i>
@@ -280,7 +281,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-7">
                 <div class="section-title text-center">
-                    <h2>Accreditations</h2>
+                    <h2>प्रमाणन</h2>
                     <div class="divider mx-auto my-4"></div>
                     <br><br>
                     <img src="images/about/acc.png" alt="">
@@ -289,6 +290,6 @@
         </div>
     </div>
 </section>
-<?php include 'footer.php'; ?>
+<?php include 'footer_hi.php'; ?>
 </body>
 </html>
