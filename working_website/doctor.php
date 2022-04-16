@@ -37,22 +37,22 @@
                     <input type="radio" name="shuffle-filter" value="all" checked="checked"/>All Department
                 </label>
                 <label class="btn ">
-                    <input type="radio" name="shuffle-filter" value="cat1"/>Cardiology
+                    <input type="radio" name="shuffle-filter" value="cat1"/>Anesthesiology
                 </label>
                 <label class="btn">
-                    <input type="radio" name="shuffle-filter" value="cat2"/>Dental
+                    <input type="radio" name="shuffle-filter" value="cat2"/>Obstetrics & Gynecology
                 </label>
                 <label class="btn">
-                    <input type="radio" name="shuffle-filter" value="cat3"/>Neurology
+                    <input type="radio" name="shuffle-filter" value="cat3"/>General Medicine
                 </label>
                 <label class="btn">
-                    <input type="radio" name="shuffle-filter" value="cat4"/>Medicine
+                    <input type="radio" name="shuffle-filter" value="cat4"/>General Surgery
                 </label>
                 <label class="btn">
-                    <input type="radio" name="shuffle-filter" value="cat5"/>Pediatric
+                    <input type="radio" name="shuffle-filter" value="cat5"/>Pediatrics
                 </label>
                 <label class="btn">
-                    <input type="radio" name="shuffle-filter" value="cat6"/>Traumatology
+                    <input type="radio" name="shuffle-filter" value="cat6"/>Orthopedics
                 </label>
             </div>
         </div>

@@ -30,7 +30,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="service-item mb-4">
                     <div class="icon d-flex align-items-center">
-                        <i class="icofont-laboratory text-lg"></i>
+                        <i class="icofont-injection-syringe text-lg"></i>
                         <h4 class="mt-3 mb-3 ml-2 ml-2">Anesthesiology</h4>
                     </div>
                     <div class="content">
@@ -44,7 +44,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="service-item mb-4">
                     <div class="icon d-flex align-items-center">
-                        <i class="icofont-heart-beat-alt text-lg"></i>
+                        <i class="icofont-baby text-lg"></i>
                         <h4 class="mt-3 mb-3 ml-2">Obstetrics&Gynecology</h4>
                     </div>
                     <div class="content">
@@ -58,27 +58,13 @@
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="service-item mb-4">
                     <div class="icon d-flex align-items-center">
-                        <i class="icofont-heart-beat-alt text-lg"></i>
-                        <h4 class="mt-3 mb-3 ml-2">Cardiology</h4>
-                    </div>
-                    <div class="content">
-                        <p class="mb-4">Our Department of Cardiology understands the stress caused to patients and their
-                            families due to ...</p>
-                        <a href="s3_Cardiology.php" class="read-more">Learn More <i
-                                    class="icofont-simple-right ml-2"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="service-item mb-4">
-                    <div class="icon d-flex align-items-center">
-                        <i class="icofont-heart-beat-alt text-lg"></i>
+                        <i class="icofont-medicine text-lg"></i>
                         <h4 class="mt-3 mb-3 ml-2">General Medicine</h4>
                     </div>
                     <div class="content">
                         <p class="mb-4">Our Department of General Medicine provides a wide range of clinical services
                             incorporating ...</p>
-                        <a href="s4_GeneralMedicine.php" class="read-more">Learn More <i
+                        <a href="s3_GeneralMedicine.php" class="read-more">Learn More <i
                                     class="icofont-simple-right ml-2"></i></a>
                     </div>
                 </div>
@@ -86,13 +72,13 @@
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="service-item mb-4">
                     <div class="icon d-flex align-items-center">
-                        <i class="icofont-heart-beat-alt text-lg"></i>
+                        <i class="icofont-surgeon text-lg"></i>
                         <h4 class="mt-3 mb-3 ml-2">General Surgery</h4>
                     </div>
                     <div class="content">
                         <p class="mb-4">Our Department of General Surgery provides a wide array of cost-effective
                             services including ...</p>
-                        <a href="s5_GeneralSurgery.php" class="read-more">Learn More <i
+                        <a href="s4_GeneralSurgery.php" class="read-more">Learn More <i
                                     class="icofont-simple-right ml-2"></i></a>
                     </div>
                 </div>
@@ -101,6 +87,20 @@
                 <div class="service-item mb-4">
                     <div class="icon d-flex align-items-center">
                         <i class="icofont-tooth text-lg"></i>
+                        <h4 class="mt-3 mb-3 ml-2">Dentistry</h4>
+                    </div>
+                    <div class="content">
+                        <p class="mb-4">Our Department of Dentistry is committed to providing the highest quality of
+                            dental care ...</p>
+                        <a href="s5_dentistry.php" class="read-more">Learn More <i
+                                    class="icofont-simple-right ml-2"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="service-item mb-4">
+                    <div class="icon d-flex align-items-center">
+                        <i class="icofont-children-care text-lg"></i>
                         <h4 class="mt-3 mb-3 ml-2">Pediatrics</h4>
                     </div>
                     <div class="content">
@@ -128,7 +128,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="service-item mb-4">
                     <div class="icon d-flex align-items-center">
-                        <i class="icofont-brain-alt text-lg"></i>
+                        <i class="icofont-eye text-lg"></i>
                         <h4 class="mt-3 mb-3 ml-2">Ophthalmology</h4>
                     </div>
                     <div class="content">
@@ -142,7 +142,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="service-item mb-4">
                     <div class="icon d-flex align-items-center">
-                        <i class="icofont-dna-alt-1 text-lg"></i>
+                        <i class="icofont-listening text-lg"></i>
                         <h4 class="mt-3 mb-3 ml-2">Ear, Nose, Throat (ENT)</h4>
                     </div>
                     <div class="content">
@@ -156,7 +156,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="service-item mb-4">
                     <div class="icon d-flex align-items-center">
-                        <i class="icofont-dna-alt-1 text-lg"></i>
+                        <i class="icofont-man-in-glasses text-lg"></i>
                         <h4 class="mt-3 mb-3 ml-2">Dermatology</h4>
                     </div>
                     <div class="content">
@@ -170,11 +170,11 @@
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="service-item mb-4">
                     <div class="icon d-flex align-items-center">
-                        <i class="icofont-dna-alt-1 text-lg"></i>
-                        <h4 class="mt-3 mb-3 ml-2">Pulmonary Medicine</h4>
+                        <i class="icofont-capsule text-lg"></i>
+                        <h4 class="mt-3 mb-3 ml-2">Respiratory Medicine</h4>
                     </div>
                     <div class="content">
-                        <p class="mb-4">Our Department of Pulmonary Medicine provides quality care to people with
+                        <p class="mb-4">Our Department of Respiratory Medicine provides quality care to people with
                             complex medical ...</p>
                         <a href="s11_Pulmonary%20Medicine.php" class="read-more">Learn More <i
                                     class="icofont-simple-right ml-2"></i></a>
@@ -184,13 +184,41 @@
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="service-item mb-4">
                     <div class="icon d-flex align-items-center">
-                        <i class="icofont-dna-alt-1 text-lg"></i>
+                        <i class="icofont-autism text-lg"></i>
                         <h4 class="mt-3 mb-3 ml-2">Psychiatry</h4>
                     </div>
                     <div class="content">
                         <p class="mb-4">Our Department of Psychiatry offers a range of mental health services in a safe
                             environment. ...</p>
                         <a href="s12_Psychiatry.php" class="read-more">Learn More <i
+                                    class="icofont-simple-right ml-2"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="service-item mb-4">
+                    <div class="icon d-flex align-items-center">
+                        <i class="icofont-heartbeat text-lg"></i>
+                        <h4 class="mt-3 mb-3 ml-2">Radio-diagnosis</h4>
+                    </div>
+                    <div class="content">
+                        <p class="mb-4">Our Department of Radio-diagnosis provides comprehensive diagnostic imaging
+                            services ...</p>
+                        <a href="s13_radiology.php" class="read-more">Learn More <i
+                                    class="icofont-simple-right ml-2"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="service-item mb-4">
+                    <div class="icon d-flex align-items-center">
+                        <i class="icofont-paralysis-disability text-lg"></i>
+                        <h4 class="mt-3 mb-3 ml-2">Physiotherapy</h4>
+                    </div>
+                    <div class="content">
+                        <p class="mb-4">Our Department of Physiotherapy focuses on restoring wellness and the patients’
+                            quality of life ...</p>
+                        <a href="s14_physiotherapy.php" class="read-more">Learn More <i
                                     class="icofont-simple-right ml-2"></i></a>
                     </div>
                 </div>

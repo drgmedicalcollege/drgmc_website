@@ -15,8 +15,8 @@
                     <ul class="list-inline footer-socials mt-4">
                         <li class="list-inline-item"><a href="https://www.facebook.com/themefisher"><i
                                         class="icofont-facebook text-light"></i></a></li>
-                        <li class="list-inline-item"><a href="https://twitter.com/themefisher"><i
-                                        class="icofont-twitter text-light"></i></a></li>
+<!--                        <li class="list-inline-item"><a href="https://twitter.com/themefisher"><i-->
+<!--                                        class="icofont-twitter text-light"></i></a></li>-->
                         <li class="list-inline-item"><a href="https://twitter.com/themefisher"><i
                                         class="icofont-instagram text-light"></i></a></li>
                     </ul>
@@ -60,6 +60,8 @@
                                 Hospital, Amravati</a></li>
                         <li class="my-2 "><a href="http://www.rgiop.com/" style="color: #6F8BA4;">Dr. Rajendra Gode
                                 Institute of Pharmacy, Amravati</a></li>
+                        <li class="my-2 "><a href="http://www.rgcop.com/" style="color: #6F8BA4;">Dr. Rajendra Gode
+                                College of Pharmacy, Amravati</a></li>
                         <li class="my-2 "><a href="https://www.drgitr.com/" style="color: #6F8BA4;">Dr.Rajendra Gode
                                 Institute Of Technology & Research, Amravati</a></li>
                     </ul>
@@ -70,7 +72,7 @@
             <div class="row align-items-center justify-content-between">
                 <div class="col-lg-12 text-center">
                     <div class="copyright">
-                        &copy; 2021-2022 Copyright Reserved to <span class="text-light">Dr. Rajendra Gode Multispeciality & General Hospital. </span> </a>
+                        &copy; 2022-2023 Copyright Reserved to <span class="text-light">Dr. Rajendra Gode Multispeciality & General Hospital. </span> </a>
                     </div>
                 </div>
             </div>

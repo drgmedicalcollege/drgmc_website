@@ -28,111 +28,111 @@
         <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="service-block mb-5">
-                    <img src="images/service/service-1.jpg" alt="" class="img-fluid">
+                    <img src="images/facilities/f2.jpeg" alt="" class="img-fluid">
                     <div class="content">
-                        <h4 class="mt-4 mb-2 title-color">Pharmacy</h4>
-                        <p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
-                        <a href="f1_pharmacy.php" class="read-more">Learn More <i
-                                    class="icofont-simple-right ml-2"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="service-block mb-5">
-                    <img src="images/service/service-2.jpg" alt="" class="img-fluid">
-                    <div class="content">
-                        <h4 class="mt-4 mb-2  title-color">Blood Bank</h4>
-                        <p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
-                        <a href="f1_pharmacy.php" class="read-more">Learn More <i
-                                    class="icofont-simple-right ml-2"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="service-block mb-5">
-                    <img src="images/service/service-3.jpg" alt="" class="img-fluid">
-                    <div class="content">
-                        <h4 class="mt-4 mb-2 title-color">Emergency Services</h4>
-                        <p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
-                        <a href="f1_pharmacy.php" class="read-more">Learn More <i
-                                    class="icofont-simple-right ml-2"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="service-block mb-5">
-                    <img src="images/service/service-4.jpg" alt="" class="img-fluid">
-                    <div class="content">
-                        <h4 class="mt-4 mb-2 title-color">Intensive Care Unit (ICU)</h4>
-                        <p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
-                        <a href="f1_pharmacy.php" class="read-more">Learn More <i
-                                    class="icofont-simple-right ml-2"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="service-block mb-5">
-                    <img src="images/service/service-6.jpg" alt="" class="img-fluid">
-                    <div class="content">
-                        <h4 class="mt-4 mb-2 title-color">Ambulance</h4>
-                        <p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
-                        <a href="f1_pharmacy.php" class="read-more">Learn More <i
-                                    class="icofont-simple-right ml-2"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="service-block mb-5">
-                    <img src="images/service/service-8.jpg" alt="" class="img-fluid">
-                    <div class="content">
-                        <h4 class="mt-4 mb-2 title-color">Cafeteria</h4>
-                        <p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
-                        <a href="f1_pharmacy.php" class="read-more">Learn More <i
-                                    class="icofont-simple-right ml-2"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="service-block mb-5">
-                    <img src="images/service/service-8.jpg" alt="" class="img-fluid">
-                    <div class="content">
-                        <h4 class="mt-4 mb-2 title-color">In Ptient Department</h4>
-                        <p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
-                        <a href="f1_pharmacy.php" class="read-more">Learn More <i
-                                    class="icofont-simple-right ml-2"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="service-block mb-5">
-                    <img src="images/service/service-8.jpg" alt="" class="img-fluid">
-                    <div class="content">
-                        <h4 class="mt-4 mb-2 title-color">Out Patient Department</h4>
-                        <p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
-                        <a href="f1_pharmacy.php" class="read-more">Learn More <i
-                                    class="icofont-simple-right ml-2"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 col-sm-6">
-                <div class="service-block mb-5">
-                    <img src="images/service/service-8.jpg" alt="" class="img-fluid">
-                    <div class="content">
-                        <h4 class="mt-4 mb-2 title-color">Online Consultation</h4>
-                        <p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
-                        <a href="f1_pharmacy.php" class="read-more">Learn More <i
-                                    class="icofont-simple-right ml-2"></i></a>
+                        <h4 class="mt-4 mb-2  title-color">Blood bank</h4>
+                        <!--                        <p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>-->
+                        <!--                        <a href="#" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>-->
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="service-block mb-5 mb-lg-0">
-                    <img src="images/service/service-8.jpg" alt="" class="img-fluid">
+                    <img src="images/facilities/f11.jpeg" alt="" class="img-fluid">
                     <div class="content">
-                        <h4 class="mt-4 mb-2 title-color">Operation Theatres</h4>
-                        <p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>
-                        <a href="f1_pharmacy.php" class="read-more">Learn More <i
-                                    class="icofont-simple-right ml-2"></i></a>
+                        <h4 class="mt-4 mb-2 title-color">Central Clinical Laboratory – 24/7</h4>
+                        <!--                        <p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>-->
+                        <!--                        <a href="#" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>-->
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="service-block mb-5">
+                    <img src="images/facilities/f1.jpeg" alt="" class="img-fluid">
+                    <div class="content">
+                        <h4 class="mt-4 mb-2 title-color">Pharmacy – 24/7</h4>
+                        <!--                        <p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>-->
+                        <!--                        <a href="#" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>-->
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="service-block mb-5">
+                    <img src="images/facilities/f3.jpeg" alt="" class="img-fluid">
+                    <div class="content">
+                        <h4 class="mt-4 mb-2 title-color">Emergency Medicine – 24/7 services </h4>
+                        <!--                        <p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>-->
+                        <!--                        <a href="#" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>-->
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="service-block mb-5">
+                    <img src="images/facilities/f5.jpeg" alt="" class="img-fluid">
+                    <div class="content">
+                        <h4 class="mt-4 mb-2 title-color">Ambulance – 24/7 </h4>
+                        <!--                        <p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>-->
+                        <!--                        <a href="#" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>-->
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="service-block mb-5">
+                    <img src="images/facilities/f4.jpeg" alt="" class="img-fluid">
+                    <div class="content">
+                        <h4 class="mt-4 mb-2 title-color">ICU, NICU, ICCU, PICU, SICU, HDU </h4>
+                        <!--                        <p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>-->
+                        <!--                        <a href="#" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>-->
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="service-block mb-5">
+                    <img src="images/facilities/f9.jpeg" alt="" class="img-fluid">
+                    <div class="content">
+                        <h4 class="mt-4 mb-2 title-color">Online consultation</h4>
+                        <!--                        <p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>-->
+                        <!--                        <a href="#" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>-->
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="service-block mb-5 mb-lg-0">
+                    <img src="images/facilities/f10.jpeg" alt="" class="img-fluid">
+                    <div class="content">
+                        <h4 class="mt-4 mb-2 title-color">Operation theatres</h4>
+                        <!--                        <p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>-->
+                        <!--                        <a href="#" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>-->
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="service-block mb-5">
+                    <img src="images/facilities/f7.jpg" alt="" class="img-fluid">
+                    <div class="content">
+                        <h4 class="mt-4 mb-2 title-color">In-patient department</h4>
+                        <!--                        <p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>-->
+                        <!--                        <a href="#" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>-->
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="service-block mb-5">
+                    <img src="images/facilities/f8.jpg" alt="" class="img-fluid">
+                    <div class="content">
+                        <h4 class="mt-4 mb-2 title-color">Out-patient department</h4>
+                        <!--                        <p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>-->
+                        <!--                        <a href="#" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>-->
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6">
+                <div class="service-block mb-5">
+                    <img src="images/facilities/f6.jpeg" alt="" class="img-fluid">
+                    <div class="content">
+                        <h4 class="mt-4 mb-2 title-color">Cafeteria</h4>
+                        <!--                        <p class="mb-4">Saepe nulla praesentium eaque omnis perferendis a doloremque.</p>-->
+                        <!--                        <a href="#" class="read-more">Learn More <i class="icofont-simple-right ml-2"></i></a>-->
                     </div>
                 </div>
             </div>

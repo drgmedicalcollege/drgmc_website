@@ -21,7 +21,7 @@
 
 <section class="section doctor-single py-1  mt-4">
 	<div class="container">
-	 Virtual Tour
+	 <h1 class="text-center text-capitalize">Coming Soon</h1>
 	</div>
 </section>
 

@@ -47,9 +47,6 @@
                         </li>
                         <li><i class="icofont-check mr-2"></i>Implement equitable healthcare practices</li>
                         <li><i class="icofont-check mr-2"></i>Monitor set quality standards in all hospital areas</li>
-                        <li><i class="icofont-check mr-2"></i>Comply with the Benchmark of National and International
-                            Standards
-                        </li>
                     </ul>
                 </div>
             </div>

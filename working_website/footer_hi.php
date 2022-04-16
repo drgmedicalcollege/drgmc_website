@@ -10,13 +10,13 @@
                     <div class="logo mb-4">
                         <img src="images/logo_white.svg" class="img-fluid" style="height: 80%; width: 80%" alt="">
                     </div>
-                    <p> Dr. Rajendra Gode Multispeciality & General Hospital <br> Mardi Road,
-                        Amravati, Maharashtra 444603</p>
+                    <p>डॉ. राजेंद्र गोडे मल्टीस्पेशलिटी एंड जनरल हॉस्पिटल <br> मार्डी रोड, अमरावती, महाराष्ट्र 444603
+                    </p>
                     <ul class="list-inline footer-socials mt-4">
                         <li class="list-inline-item"><a href="https://www.facebook.com/themefisher"><i
                                         class="icofont-facebook text-light"></i></a></li>
-                        <li class="list-inline-item"><a href="https://twitter.com/themefisher"><i
-                                        class="icofont-twitter text-light"></i></a></li>
+<!--                        <li class="list-inline-item"><a href="https://twitter.com/themefisher"><i-->
+<!--                                        class="icofont-twitter text-light"></i></a></li>-->
                         <li class="list-inline-item"><a href="https://twitter.com/themefisher"><i
                                         class="icofont-instagram text-light"></i></a></li>
                     </ul>
@@ -25,43 +25,42 @@
             <div class="col-lg-2 col-md-6 col-sm-6">
                 <div class="widget widget-contact mb-5 mb-lg-0">
                     <h6 class="text-capitalize my-0 text-light"><i class="fa fa-life-ring" aria-hidden="true"></i>
-                        SUPPORT</h6>
+                        सहयोग</h6>
                     <ul class="list-unstyled footer-menu lh-35">
-                        <li><a href="#">Terms & Conditions</a></li>
-                        <li><a href="#">Privacy Policy</a></li>
-                        <li><a href="#">Company Support </a></li>
-                        <li><a href="#">FAQuestions</a></li>
-                        <li><a href="#">Company Licence</a></li>
+                        <li><a href="#">नियम एवं शर्तें</a></li>
+                        <li><a href="#">गोपनीयता नीति</a></li>
+                        <li><a href="#">कंपनी का समर्थन</a></li>
+                        <li><a href="#">अक्सर पूछे जाने वाले प्रश्न</a></li>
+                        <li><a href="#">कंपनी लाइसेंस</a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-lg-2 col-md-6 col-sm-6">
                 <div class="widget widget-contact mb-5 mb-lg-0">
                     <h6 class="text-capitalize my-0 text-light"><i class="fa fa-bullseye" aria-hidden="true"></i>
-                        CAREERS</h6>
-                    <p class="footerlineitem" style="color: #6F8BA4;">Learn about career opportunities, search for
-                        positions and apply for a job. </p>
-                    <h6 class="text-capitalize my-0 text-light"><i class="fa fa-bullseye" aria-hidden="true"></i> WAYS
-                        TO GIVE</h6>
-                    <p class="footerlineitem" style="color: #6F8BA4;">Learn about the many ways you can get involved and
-                        support the hospital. </p>
+                        करियर</h6>
+                    <p class="footerlineitem" style="color: #6F8BA4;">करियर के अवसरों के बारे में जानें, पदों की तलाश
+                        करें और नौकरी के लिए आवेदन करें।</p>
+                    <h6 class="text-capitalize my-0 text-light">दान करने के तरीके</h6>
+                    <p class="footerlineitem" style="color: #6F8BA4;">उन कई तरीकों के बारे में जानें जिनमें आप शामिल हो
+                        सकते हैं और अस्पताल की सहायता कर सकते हैं।</p>
                     <h6 class="text-capitalize my-0"><i class="fa fa-bullseye text-light" aria-hidden="true"></i> <a
-                                href="all-specialities.php" class="text-light">DEPARTMENTS</a></h6>
-                    <p class="footerlineitem" style="color: #6F8BA4;">Explore our Centers of Excellence.</p>
+                                href="all-specialities.php" class="text-light">विभाग</a></h6>
+                    <p class="footerlineitem" style="color: #6F8BA4;">हमारे उत्कृष्टता केंद्रों का अन्वेषण करें।</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-4">
                 <div class="widget widget-contact mb-5 mb-lg-0">
-                    <h6 class="text-capitalize my-0 text-light"><i class="fa fa-bookmark" aria-hidden="true"></i> DRG
-                        INSTITUTIONS</h6>
+                    <h6 class="text-capitalize my-0 text-light">डीआरजी संस्थान</h6>
                     <ul class="list-unstyled footer-menu ">
-                        <li class="my-2 "><a href="https://gachospital.org" style="color: #6F8BA4;">Dr. Rajendra Gode
-                                Ayurved College and
-                                Hospital, Amravati</a></li>
-                        <li class="my-2 "><a href="http://www.rgiop.com/" style="color: #6F8BA4;">Dr. Rajendra Gode
-                                Institute of Pharmacy, Amravati</a></li>
-                        <li class="my-2 "><a href="https://www.drgitr.com/" style="color: #6F8BA4;">Dr.Rajendra Gode
-                                Institute Of Technology & Research, Amravati</a></li>
+                        <li class="my-2 "><a href="https://gachospital.org" style="color: #6F8BA4;">डॉ राजेंद्र गोडे
+                                आयुर्वेद कॉलेज और अस्पताल, अमरावती</a></li>
+                        <li class="my-2 "><a href="http://www.rgiop.com/" style="color: #6F8BA4;">डॉ. राजेंद्र गोडे
+                                फार्मेसी संस्थान, अमरावती</a></li>
+                        <li class="my-2 "><a href="http://www.rgcop.com/" style="color: #6F8BA4;">डॉ. राजेंद्र गोडे
+                                कॉलेज ऑफ फार्मेसी, अमरावती</a></li>
+                        <li class="my-2 "><a href="https://www.drgitr.com/" style="color: #6F8BA4;">डॉ. राजेंद्र गोडे
+                                प्रौद्योगिकी और अनुसंधान संस्थान, अमरावती</a></li>
                     </ul>
                 </div>
             </div>
@@ -70,7 +69,7 @@
             <div class="row align-items-center justify-content-between">
                 <div class="col-lg-12 text-center">
                     <div class="copyright">
-                        &copy; 2021-2022 Copyright Reserved to <span class="text-light">Dr. Rajendra Gode Multispeciality & General Hospital. </span> </a>
+                        &copy; 2022-2023 कॉपीराइट सुरक्षित <span class="text-light">डॉ राजेंद्र गोडे मल्टीस्पेशलिटी एंड जनरल हॉस्पिटल।</span> </a>
                     </div>
                 </div>
             </div>

@@ -34,7 +34,7 @@
                     <p></p>
                     <a href="appoinment.php" class="btn btn-main-2 btn-round-full">Make an Appoinment<i
                                 class="icofont-simple-right ml-2  "></i></a>
-                    <h3 class="mt-5 mb-4">Services features</h3>
+                    <h3 class="mt-5 mb-4">Some of our services include:</h3>
                     <div class="divider my-4"></div>
                     <ul class="list-unstyled department-service">
                         <li><i class="icofont-check mr-2"></i>2D Echo Cardigraphy & Color Doppler Studies</li>
@@ -48,7 +48,9 @@
                         <li><i class="icofont-check mr-2"></i>Baloon Valvo Plasties (Mitral / Aortic / Pulmonary)</li>
                         <li><i class="icofont-check mr-2"></i>Cardiac Cath Studies</li>
                         <li><i class="icofont-check mr-2"></i>Device Closures (ASD, PDA, VSD).</li>
-                        <li><i class="icofont-check mr-2"></i>Peripheral Angiography & Angioplasty (Neck / Kidney / Limb)</li>
+                        <li><i class="icofont-check mr-2"></i>Peripheral Angiography & Angioplasty (Neck / Kidney /
+                            Limb)
+                        </li>
                         <li><i class="icofont-check mr-2"></i>Carotid Angiography & Angioplasty</li>
                         <li><i class="icofont-check mr-2"></i>EP Studies & Ablation.</li>
                         <li><i class="icofont-check mr-2"></i>Heart Failure Device and AICD implantation.</li>
